@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600010282 source:c:\games\Новая папка\teest\main.cpp
+	<iostream>
+	<vector>
+
