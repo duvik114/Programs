@@ -1,0 +1,14 @@
+[ 7252.506156] [   1339]     0  1339   266664    23649  1769472   187450             0 mem.bash
+[ 7252.513908] [1121528]     0 1121528   266664    23652  1757184   187447             0 mem.bash
+[ 7252.514262] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-0.slice/session-3.scope,task=mem.bash,pid=1339,uid=0
+[ 7252.515027] Out of memory: Killed process 1339 (mem.bash) total-vm:1066656kB, anon-rss:94592kB, file-rss:4kB, shmem-rss:0kB, UID:0 pgtables:1728kB oom_score_adj:0
+[18144.914307] [1124171]     0 1124171   160800    11698   921600    93664             0 mem.bash
+[18144.914637] [1124172]     0 1124172   160800    11689   925696    93666             0 mem2.bash
+[18144.916989] [2203018]     0 2203018   160800    11557   909312    93664             0 mem.bash
+[18144.917350] [2203019]     0 2203019   160800    11554   913408    93666             0 mem2.bash
+[18144.917682] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-0.slice/session-6.scope,task=mem.bash,pid=1124171,uid=0
+[18144.918428] Out of memory: Killed process 1124171 (mem.bash) total-vm:643200kB, anon-rss:46228kB, file-rss:564kB, shmem-rss:0kB, UID:0 pgtables:900kB oom_score_adj:0
+[22691.360438] [1124172]     0 1124172   263397    19845  1748992   187994             0 mem2.bash
+[22691.365992] [2730689]     0 2730689   263397    19845  1740800   187994             0 mem2.bash
+[22691.366345] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-0.slice/session-6.scope,task=mem2.bash,pid=1124172,uid=0
+[22691.367037] Out of memory: Killed process 1124172 (mem2.bash) total-vm:1053588kB, anon-rss:79380kB, file-rss:0kB, shmem-rss:0kB, UID:0 pgtables:1708kB oom_score_adj:0

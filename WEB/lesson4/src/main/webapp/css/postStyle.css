@@ -1,0 +1,114 @@
+:root {
+    --border-color: rgb(185, 185, 185);
+    --border-radius: 6px;
+    --black-color: #333;
+    --caption-color: #3B5998;
+    --bar-color: #b9b9b9;
+    --article-color: #888;
+    color: var(--black-color);
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+}
+
+/*.middle article.post_text {
+    overflow-wrap: break-word;
+}*/
+
+.middle main ul {
+    list-style-type: none;
+}
+
+.middle main /*ul li*/ article {
+    font-family: Arial, sans-serif;
+    overflow-wrap: break-word;
+}
+
+.middle main /*ul li*/ article .title {
+    position: relative;
+    font-family: Verdana, sans-serif;
+    font-size: 19px;
+    color: var(--caption-color);
+    font-weight: bold;
+}
+
+.middle main /*ul li*/ article .information {
+    font-size: smaller;
+    color: var(--article-color);
+}
+
+.middle main /*ul li*/ article .body {
+    display: block;
+    border-left: 4px solid var(--bar-color);
+    padding-left: 0.8em;
+}
+
+.middle main article .attachment {
+    color: var(--article-color);
+    font-size: 0.75rem;
+    font-family: Verdana, sans-serif;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.middle main article .attachment li {
+    background: url(../img/paperclip-16x16.png) no-repeat;
+    margin-bottom: 0.1rem;
+    padding-left: 19px;
+    line-height: 19px;
+}
+
+.middle main article .footer {
+    display: block;
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    overflow: auto;
+    position: relative;
+}
+
+.middle main article .footer div {
+    padding: 0.4rem;
+}
+
+.middle main article .footer .left img {
+    vertical-align: middle;
+    margin: 0 0.3em;
+}
+
+.middle main article .footer .right img {
+    vertical-align: -11%;
+}
+
+.middle main article .footer .left {
+    float: left;
+    display: flex;
+}
+
+.middle main article .footer .left .positive-score {
+    color: green;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    align-self: center;
+}
+
+.middle main article .footer .left img[title="Vote Down"] {
+    align-self: flex-end;
+    margin-top: 0.11em;
+}
+
+.middle main article .footer .left img[title="Vote Up"] {
+    align-self: flex-start;
+    margin-top: 0.09em;
+}
+
+.middle main article .footer .right {
+    float: right;
+    position: absolute;
+    bottom: 0.19rem;
+    right: 0;
+}
+
+.middle main article .footer .right img[title="Comments"] {
+    margin-left: 0.19rem;
+}

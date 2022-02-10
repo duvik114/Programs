@@ -1,0 +1,3328 @@
+
+Имя_службы: AdobeARMservice
+Выводимое_имя: Adobe Acrobat Update Service
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4308
+        Флаги              : 
+
+Имя_службы: AGMService
+Выводимое_имя: Adobe Genuine Monitor Service
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4432
+        Флаги              : 
+
+Имя_службы: AGSService
+Выводимое_имя: Adobe Genuine Software Integrity Service
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4468
+        Флаги              : 
+
+SERVICE_NAME: AJRouter
+DISPLAY_NAME: Служба маршрутизатора AllJoyn
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: ALG
+DISPLAY_NAME: Служба шлюза уровня приложения
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: AMD External Events Utility
+Выводимое_имя: AMD External Events Utility
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2612
+        Флаги              : 
+
+Имя_службы: AnyDesk
+Выводимое_имя: AnyDesk Service
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4256
+        Флаги              : 
+
+SERVICE_NAME: AppIDSvc
+DISPLAY_NAME: Удостоверение приложения
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: Appinfo
+Выводимое_имя: Сведения о приложении
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 7792
+        Флаги              : 
+
+SERVICE_NAME: AppReadiness
+DISPLAY_NAME: Готовность приложений
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: AppXSvc
+Выводимое_имя: Служба развертывания AppX (AppXSVC)
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 8620
+        Флаги              : 
+
+Имя_службы: AsusAppService
+Выводимое_имя: ASUS App Service
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4216
+        Флаги              : 
+
+Имя_службы: ASUSLinkNear
+Выводимое_имя: ASUS Link Near
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4200
+        Флаги              : 
+
+Имя_службы: ASUSLinkRemote
+Выводимое_имя: ASUS Link Remote
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4244
+        Флаги              : 
+
+Имя_службы: ASUSOptimization
+Выводимое_имя: ASUS Optimization
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 3776
+        Флаги              : 
+
+Имя_службы: ASUSSoftwareManager
+Выводимое_имя: ASUS Software Manager
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4224
+        Флаги              : 
+
+Имя_службы: ASUSSwitch
+Выводимое_имя: ASUS Switch
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4236
+        Флаги              : 
+
+Имя_службы: ASUSSystemAnalysis
+Выводимое_имя: ASUS System Analysis
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 5752
+        Флаги              : 
+
+Имя_службы: ASUSSystemDiagnosis
+Выводимое_имя: ASUS System Diagnosis
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4284
+        Флаги              : 
+
+Имя_службы: AtherosSvc
+Выводимое_имя: AtherosSvc
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4300
+        Флаги              : 
+
+Имя_службы: AudioEndpointBuilder
+Выводимое_имя: Средство построения конечных точек Windows Audio
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 3048
+        Флаги              : 
+
+Имя_службы: Audiosrv
+Выводимое_имя: Windows Audio
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 3300
+        Флаги              : 
+
+SERVICE_NAME: autotimesvc
+DISPLAY_NAME: Время в сети мобильной связи
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: AxInstSV
+DISPLAY_NAME: Установщик ActiveX (AxInstSV)
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: BDESVC
+DISPLAY_NAME: Служба шифрования дисков BitLocker
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: BFE
+Выводимое_имя: Служба базовой фильтрации
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4044
+        Флаги              : 
+
+SERVICE_NAME: BITS
+DISPLAY_NAME: Фоновая интеллектуальная служба передачи (BITS)
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: BrokerInfrastructure
+Выводимое_имя: Служба инфраструктуры фоновых задач
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 536
+        Флаги              : 
+
+Имя_службы: BTAGService
+Выводимое_имя: Служба звукового шлюза Bluetooth
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1456
+        Флаги              : 
+
+Имя_службы: BthAvctpSvc
+Выводимое_имя: Служба AVCTP
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1440
+        Флаги              : 
+
+Имя_службы: bthserv
+Выводимое_имя: Служба поддержки Bluetooth
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1464
+        Флаги              : 
+
+Имя_службы: BtSwitcherService
+Выводимое_имя: Служба переключателя Bluetooth
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4264
+        Флаги              : 
+
+Имя_службы: camsvc
+Выводимое_имя: Служба диспетчера доступа к возможностям
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2428
+        Флаги              : 
+
+Имя_службы: CDPSvc
+Выводимое_имя: Служба платформы подключенных устройств
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 9380
+        Флаги              : 
+
+SERVICE_NAME: CertPropSvc
+DISPLAY_NAME: Распространение сертификата
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: chromoting
+Выводимое_имя: Служба Удаленного рабочего стола Chrome
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4292
+        Флаги              : 
+
+Имя_службы: ClickToRunSvc
+Выводимое_имя: Microsoft Office Click-to-Run Service
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4676
+        Флаги              : 
+
+SERVICE_NAME: ClipSVC
+DISPLAY_NAME: Служба лицензий клиента (ClipSVC)
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: COMSysApp
+DISPLAY_NAME: Системное приложение COM+
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: CoreMessagingRegistrar
+Выводимое_имя: CoreMessaging
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1832
+        Флаги              : 
+
+Имя_службы: CryptSvc
+Выводимое_имя: Службы криптографии
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4276
+        Флаги              : 
+
+Имя_службы: CSRBtAudioService
+Выводимое_имя: Аудиослужба CSR Bluetooth
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 5404
+        Флаги              : 
+
+Имя_службы: CsrBtOBEXService
+Выводимое_имя: Служба CSR для обмена объектами
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 27396
+        Флаги              : 
+
+Имя_службы: CsrBtService
+Выводимое_имя: Служба CSR Bluetooth
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4396
+        Флаги              : 
+
+Имя_службы: CxAudioSvc
+Выводимое_имя: CxAudioSvc
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4456
+        Флаги              : 
+
+Имя_службы: CxAudMsg
+Выводимое_имя: CxAudMsg Service
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4600
+        Флаги              : 
+
+Имя_службы: CxUIUSvc
+Выводимое_имя: CxUIUSvc Service
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4608
+        Флаги              : 
+
+Имя_службы: CxUtilSvc
+Выводимое_имя: CxUtilSvc
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4476
+        Флаги              : 
+
+Имя_службы: DcomLaunch
+Выводимое_имя: Модуль запуска процессов DCOM-сервера
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 536
+        Флаги              : 
+
+SERVICE_NAME: defragsvc
+DISPLAY_NAME: Оптимизация дисков
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: DeviceAssociationService
+Выводимое_имя: Служба сопоставления устройств
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2552
+        Флаги              : 
+
+SERVICE_NAME: DeviceInstall
+DISPLAY_NAME: Служба установки устройств
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: DevQueryBroker
+DISPLAY_NAME: Брокер фонового обнаружения DevQuery
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: Dhcp
+Выводимое_имя: DHCP-клиент
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2152
+        Флаги              : 
+
+SERVICE_NAME: diagnosticshub.standardcollector.service
+DISPLAY_NAME: Стандартная служба сборщика центра диагностики Microsoft (R)
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: diagsvc
+DISPLAY_NAME: Diagnostic Execution Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: DiagTrack
+Выводимое_имя: Функциональные возможности для подключенных пользователей и телеметрия
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4408
+        Флаги              : 
+
+Имя_службы: DispBrokerDesktopSvc
+Выводимое_имя: Служба политики отображения
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2516
+        Флаги              : 
+
+Имя_службы: DisplayEnhancementService
+Выводимое_имя: Служба улучшения отображения
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1628
+        Флаги              : 
+
+SERVICE_NAME: DmEnrollmentSvc
+DISPLAY_NAME: Служба регистрации управления устройством
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: dmwappushservice
+DISPLAY_NAME: Служба маршрутизации push-сообщений на основе протокола WAP (Wireless Application Protocol) для управления устройствами
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: Dnscache
+Выводимое_имя: DNS-клиент
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 3156
+        Флаги              : 
+
+Имя_службы: DoSvc
+Выводимое_имя: Оптимизация доставки
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 5020
+        Флаги              : 
+
+SERVICE_NAME: dot3svc
+DISPLAY_NAME: Проводная автонастройка
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: DPS
+Выводимое_имя: Служба политики диагностики
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4444
+        Флаги              : 
+
+SERVICE_NAME: DsmSvc
+DISPLAY_NAME: Диспетчер настройки устройств
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: DsSvc
+Выводимое_имя: Служба совместного доступа к данным
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 7172
+        Флаги              : 
+
+Имя_службы: DusmSvc
+Выводимое_имя: Использование данных
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 3440
+        Флаги              : 
+
+SERVICE_NAME: Eaphost
+DISPLAY_NAME: Расширяемый протокол проверки подлинности (EAP)
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: edgeupdate
+DISPLAY_NAME: Microsoft Edge Update Service (edgeupdate)
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: edgeupdatem
+DISPLAY_NAME: Microsoft Edge Update Service (edgeupdatem)
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: EFS
+DISPLAY_NAME: Шифрованная файловая система (EFS)
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: embeddedmode
+DISPLAY_NAME: Встроенный режим
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: EntAppSvc
+DISPLAY_NAME: Служба управления корпоративными приложениями
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: EpicOnlineServices
+DISPLAY_NAME: Epic Online Services
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: EventLog
+Выводимое_имя: Журнал событий Windows
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1448
+        Флаги              : 
+
+Имя_службы: EventSystem
+Выводимое_имя: Система событий COM+
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2872
+        Флаги              : 
+
+SERVICE_NAME: Fax
+DISPLAY_NAME: Факс
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: fdPHost
+Выводимое_имя: Хост поставщика функции обнаружения
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 512
+        Флаги              : 
+
+Имя_службы: FDResPub
+Выводимое_имя: Публикация ресурсов обнаружения функции
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 7768
+        Флаги              : 
+
+SERVICE_NAME: fhsvc
+DISPLAY_NAME: Служба истории файлов
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: FileSyncHelper
+DISPLAY_NAME: FileSyncHelper
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: FontCache
+Выводимое_имя: Служба кэша шрифтов Windows
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 3056
+        Флаги              : 
+
+SERVICE_NAME: FontCache3.0.0.0
+DISPLAY_NAME: Кэш шрифтов Windows Presentation Foundation 3.0.0.0
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: FrameServer
+DISPLAY_NAME: Сервер кадров камеры Windows
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: GoogleChromeElevationService
+DISPLAY_NAME: Google Chrome Elevation Service (GoogleChromeElevationService)
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: gpsvc
+Выводимое_имя: Клиент групповой политики
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 26696
+        Флаги              : 
+
+SERVICE_NAME: GraphicsPerfSvc
+DISPLAY_NAME: GraphicsPerfSvc
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: gupdate
+DISPLAY_NAME: Служба Google Update (gupdate)
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: gupdatem
+DISPLAY_NAME: Служба Google Update (gupdatem)
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: hidserv
+Выводимое_имя: Доступ к HID-устройствам
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1704
+        Флаги              : 
+
+SERVICE_NAME: HvHost
+DISPLAY_NAME: Служба узла HV
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: ICEsoundService
+Выводимое_имя: ICEsoundService
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4416
+        Флаги              : 
+
+SERVICE_NAME: icssvc
+DISPLAY_NAME: Служба Windows Mobile Hotspot
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: IKEEXT
+Выводимое_имя: Модули ключей IPsec для обмена ключами в Интернете и протокола IP с проверкой подлинности
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4484
+        Флаги              : 
+
+Имя_службы: InstallService
+Выводимое_имя: Служба установки Microsoft Store
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 14328
+        Флаги              : 
+
+Имя_службы: iphlpsvc
+Выводимое_имя: Вспомогательная служба IP
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4532
+        Флаги              : 
+
+SERVICE_NAME: IpxlatCfgSvc
+DISPLAY_NAME: Служба настройки преобразования IP-адресов
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: KeyIso
+Выводимое_имя: Изоляция ключей CNG
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 872
+        Флаги              : RUNS_IN_SYSTEM_PROCESS
+
+SERVICE_NAME: KtmRm
+DISPLAY_NAME: KtmRm для координатора распределенных транзакций
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: LanmanServer
+Выводимое_имя: Сервер
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 5024
+        Флаги              : 
+
+Имя_службы: LanmanWorkstation
+Выводимое_имя: Рабочая станция
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 3232
+        Флаги              : 
+
+Имя_службы: lfsvc
+Выводимое_имя: Служба географического положения
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 5096
+        Флаги              : 
+
+Имя_службы: LicenseManager
+Выводимое_имя: Служба Windows License Manager
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2084
+        Флаги              : 
+
+SERVICE_NAME: lltdsvc
+DISPLAY_NAME: Тополог канального уровня
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: lmhosts
+Выводимое_имя: Модуль поддержки NetBIOS через TCP/IP
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 29080
+        Флаги              : 
+
+Имя_службы: LSM
+Выводимое_имя: Диспетчер локальных сеансов
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1104
+        Флаги              : 
+
+SERVICE_NAME: LxpSvc
+DISPLAY_NAME: Служба Language Experience Service
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: MapsBroker
+DISPLAY_NAME: Диспетчер скачанных карт
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: McAfee WebAdvisor
+Выводимое_имя: McAfee WebAdvisor
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 16020
+        Флаги              : 
+
+SERVICE_NAME: MicrosoftEdgeElevationService
+DISPLAY_NAME: Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: MixedRealityOpenXRSvc
+DISPLAY_NAME: Windows Mixed Reality OpenXR Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: MozillaMaintenance
+DISPLAY_NAME: Mozilla Maintenance Service
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: mpssvc
+Выводимое_имя: Брандмауэр Защитника Windows
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4044
+        Флаги              : 
+
+SERVICE_NAME: MSDTC
+DISPLAY_NAME: Координатор распределенных транзакций
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: MSiSCSI
+DISPLAY_NAME: Служба инициатора Майкрософт iSCSI
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: msiserver
+DISPLAY_NAME: Установщик Windows
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: NaturalAuthentication
+DISPLAY_NAME: Проверка подлинности на основе физических параметров
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: NcaSvc
+DISPLAY_NAME: Помощник по подключению к сети
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: NcbService
+Выводимое_имя: Посредник подключений к сети
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1388
+        Флаги              : 
+
+SERVICE_NAME: NcdAutoSetup
+DISPLAY_NAME: Автоматическая настройка сетевых устройств
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: Netlogon
+DISPLAY_NAME: Сетевой вход в систему
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: Netman
+Выводимое_имя: Сетевые подключения
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 18460
+        Флаги              : 
+
+Имя_службы: netprofm
+Выводимое_имя: Служба списка сетей
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2604
+        Флаги              : 
+
+SERVICE_NAME: NetSetupSvc
+DISPLAY_NAME: Служба настройки сети
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: NetTcpPortSharing
+DISPLAY_NAME: Служба общего доступа к портам Net.Tcp
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: NgcCtnrSvc
+Выводимое_имя: Контейнер службы Microsoft Passport
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 5600
+        Флаги              : 
+
+Имя_службы: NgcSvc
+Выводимое_имя: Служба Microsoft Passport
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 5760
+        Флаги              : 
+
+Имя_службы: NlaSvc
+Выводимое_имя: Служба сведений о подключенных сетях
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2364
+        Флаги              : 
+
+Имя_службы: nsi
+Выводимое_имя: Служба интерфейса сохранения сети
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1068
+        Флаги              : 
+
+Имя_службы: NvContainerLocalSystem
+Выводимое_имя: NVIDIA LocalSystem Container
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4720
+        Флаги              : 
+
+Имя_службы: NVDisplay.ContainerLocalSystem
+Выводимое_имя: NVIDIA Display Container LS
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2324
+        Флаги              : 
+
+SERVICE_NAME: OfficeSvcManagerAddons
+DISPLAY_NAME: OfficeSvcManagerAddons
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: OneDrive Updater Service
+DISPLAY_NAME: OneDrive Updater Service
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: Origin Client Service
+DISPLAY_NAME: Origin Client Service
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: Origin Web Helper Service
+Выводимое_имя: Origin Web Helper Service
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4808
+        Флаги              : 
+
+SERVICE_NAME: ose64
+DISPLAY_NAME: Office 64 Source Engine
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: p2pimsvc
+DISPLAY_NAME: Диспетчер удостоверения сетевых участников
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: p2psvc
+DISPLAY_NAME: Группировка сетевых участников
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: PcaSvc
+Выводимое_имя: Служба помощника по совместимости программ
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 6624
+        Флаги              : 
+
+SERVICE_NAME: perceptionsimulation
+DISPLAY_NAME: Служба имитации восприятия Windows
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: PerfHost
+DISPLAY_NAME: Хост библиотеки счетчика производительности
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: PhoneSvc
+Выводимое_имя: Телефонная связь
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2168
+        Флаги              : 
+
+SERVICE_NAME: pla
+DISPLAY_NAME: Журналы и оповещения производительности
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: PlugPlay
+Выводимое_имя: Plug and Play
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 536
+        Флаги              : 
+
+SERVICE_NAME: PNRPAutoReg
+DISPLAY_NAME: Служба публикации имен компьютеров PNRP
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: PNRPsvc
+DISPLAY_NAME: Протокол PNRP
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: PolicyAgent
+DISPLAY_NAME: Агент политики IPsec
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: postgresql-x64-14
+Выводимое_имя: postgresql-x64-14 - PostgreSQL Server 14
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4688
+        Флаги              : 
+
+Имя_службы: Power
+Выводимое_имя: Питание
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 536
+        Флаги              : 
+
+SERVICE_NAME: PrintNotify
+DISPLAY_NAME: Расширения и уведомления для принтеров
+        TYPE               : 120  WIN32_SHARE_PROCESS  (interactive)
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: ProfSvc
+Выводимое_имя: Служба профилей пользователей
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1588
+        Флаги              : 
+
+SERVICE_NAME: PushToInstall
+DISPLAY_NAME: Служба PushToInstall Windows
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: QcomWlanSrv
+Выводимое_имя: Qualcomm Atheros WLAN Driver Service
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4640
+        Флаги              : 
+
+Имя_службы: QWAVE
+Выводимое_имя: Quality Windows Audio Video Experience
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 11836
+        Флаги              : 
+
+SERVICE_NAME: RasAuto
+DISPLAY_NAME: Диспетчер автоматических подключений удаленного доступа
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: RasMan
+Выводимое_имя: Диспетчер подключений удаленного доступа
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 5620
+        Флаги              : 
+
+SERVICE_NAME: RemoteAccess
+DISPLAY_NAME: Маршрутизация и удаленный доступ
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: RemoteRegistry
+DISPLAY_NAME: Удаленный реестр
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: RetailDemo
+DISPLAY_NAME: Служба демонстрации магазина
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: RmSvc
+Выводимое_имя: Служба управления радио
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 6668
+        Флаги              : 
+
+Имя_службы: RpcEptMapper
+Выводимое_имя: Сопоставитель конечных точек RPC
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1048
+        Флаги              : 
+
+SERVICE_NAME: RpcLocator
+DISPLAY_NAME: Локатор удаленного вызова процедур (RPC)
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: RpcSs
+Выводимое_имя: Удаленный вызов процедур (RPC)
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1048
+        Флаги              : 
+
+Имя_службы: SamSs
+Выводимое_имя: Диспетчер учетных записей безопасности
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 872
+        Флаги              : RUNS_IN_SYSTEM_PROCESS
+
+SERVICE_NAME: SCardSvr
+DISPLAY_NAME: Смарт-карта
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: ScDeviceEnum
+DISPLAY_NAME: Служба перечисления устройств чтения смарт-карт
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: Schedule
+Выводимое_имя: Планировщик заданий
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1476
+        Флаги              : 
+
+SERVICE_NAME: SCPolicySvc
+DISPLAY_NAME: Политика удаления смарт-карт
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: SDRSVC
+DISPLAY_NAME: Программа архивации данных
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: seclogon
+DISPLAY_NAME: Вторичный вход в систему
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: SecurityHealthService
+Выводимое_имя: Служба "Безопасность Windows"
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 13272
+        Флаги              : 
+
+Имя_службы: SEMgrSvc
+Выводимое_имя: Диспетчер платежей и NFC/защищенных элементов
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2288
+        Флаги              : 
+
+Имя_службы: SENS
+Выводимое_имя: Служба уведомления о системных событиях
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 3016
+        Флаги              : 
+
+SERVICE_NAME: SensorDataService
+DISPLAY_NAME: Служба данных датчиков
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: SensorService
+DISPLAY_NAME: Служба датчиков
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: SensrSvc
+DISPLAY_NAME: Служба наблюдения за датчиками
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: SessionEnv
+DISPLAY_NAME: Настройка сервера удаленных рабочих столов
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: SgrmBroker
+Выводимое_имя: Брокер мониторинга среды выполнения System Guard
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 9788
+        Флаги              : 
+
+SERVICE_NAME: SharedAccess
+DISPLAY_NAME: Общий доступ к подключению к Интернету (ICS)
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: SharedRealitySvc
+DISPLAY_NAME: Служба пространственных данных
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: ShellHWDetection
+Выводимое_имя: Определение оборудования оболочки
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 3768
+        Флаги              : 
+
+SERVICE_NAME: shpamsvc
+DISPLAY_NAME: Shared PC Account Manager
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: smphost
+DISPLAY_NAME: SMP дисковых пространств (Майкрософт)
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: SmsRouter
+DISPLAY_NAME: Служба маршрутизатора SMS Microsoft Windows.
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: SNMPTRAP
+DISPLAY_NAME: Ловушка SNMP
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: spectrum
+DISPLAY_NAME: Служба восприятия Windows
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: Spooler
+Выводимое_имя: Диспетчер печати
+        Тип                : 110  WIN32_OWN_PROCESS  (interactive)
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 3908
+        Флаги              : 
+
+SERVICE_NAME: sppsvc
+DISPLAY_NAME: Защита программного обеспечения
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: SSDPSRV
+Выводимое_имя: Обнаружение SSDP
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 7776
+        Флаги              : 
+
+SERVICE_NAME: ssh-agent
+DISPLAY_NAME: OpenSSH Authentication Agent
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: SstpSvc
+Выводимое_имя: Служба SSTP
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4780
+        Флаги              : 
+
+Имя_службы: StateRepository
+Выводимое_имя: Служба репозитория состояний
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2544
+        Флаги              : 
+
+Имя_службы: Steam Client Service
+Выводимое_имя: Steam Client Service
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1776
+        Флаги              : 
+
+Имя_службы: stisvc
+Выводимое_имя: Служба загрузки изображений Windows (WIA)
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4784
+        Флаги              : 
+
+Имя_службы: StorSvc
+Выводимое_имя: Служба хранилища
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 15580
+        Флаги              : 
+
+SERVICE_NAME: svsvc
+DISPLAY_NAME: Быстрая проверка
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: swprv
+DISPLAY_NAME: Программный поставщик теневого копирования (Microsoft)
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: SysMain
+Выводимое_имя: SysMain
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2856
+        Флаги              : 
+
+Имя_службы: SystemEventsBroker
+Выводимое_имя: Брокер системных событий
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 536
+        Флаги              : 
+
+Имя_службы: TabletInputService
+Выводимое_имя: Служба сенсорной клавиатуры и панели рукописного ввода
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 9060
+        Флаги              : 
+
+Имя_службы: TapiSrv
+Выводимое_имя: Телефония
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 5112
+        Флаги              : 
+
+SERVICE_NAME: TermService
+DISPLAY_NAME: Службы удаленных рабочих столов
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: Themes
+Выводимое_имя: Темы
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2864
+        Флаги              : 
+
+SERVICE_NAME: TieringEngineService
+DISPLAY_NAME: Управление уровнями хранилища
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: TimeBrokerSvc
+Выводимое_имя: Брокер времени
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1432
+        Флаги              : 
+
+Имя_службы: TokenBroker
+Выводимое_имя: Диспетчер учетных веб-записей
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 8968
+        Флаги              : 
+
+Имя_службы: TrkWks
+Выводимое_имя: Клиент отслеживания изменившихся связей
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4628
+        Флаги              : 
+
+SERVICE_NAME: TroubleshootingSvc
+DISPLAY_NAME: Рекомендованная служба устранения неполадок
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: TrustedInstaller
+Выводимое_имя: Установщик модулей Windows
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 27868
+        Флаги              : 
+
+SERVICE_NAME: tzautoupdate
+DISPLAY_NAME: Автоматическое обновление часового пояса
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: uhssvc
+DISPLAY_NAME: Microsoft Update Health Service
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: UmRdpService
+DISPLAY_NAME: Перенаправитель портов пользовательского режима служб удаленных рабочих столов
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: upnphost
+DISPLAY_NAME: Узел универсальных PNP-устройств
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: UserManager
+Выводимое_имя: Диспетчер пользователей
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 1968
+        Флаги              : 
+
+Имя_службы: UsoSvc
+Выводимое_имя: Служба оркестратора обновлений
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 7360
+        Флаги              : 
+
+SERVICE_NAME: VacSvc
+DISPLAY_NAME: Служба компоновщика объемного звука
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: VaultSvc
+Выводимое_имя: Диспетчер учетных данных
+        Тип                : 20  WIN32_SHARE_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 872
+        Флаги              : RUNS_IN_SYSTEM_PROCESS
+
+SERVICE_NAME: VBoxSDS
+DISPLAY_NAME: VirtualBox system service
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: vds
+DISPLAY_NAME: Виртуальный диск
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: vmicguestinterface
+DISPLAY_NAME: Интерфейс гостевой службы Hyper-V
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: vmicheartbeat
+DISPLAY_NAME: Служба пульса (Hyper-V)
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: vmickvpexchange
+DISPLAY_NAME: Служба обмена данными (Hyper-V)
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: vmicrdv
+DISPLAY_NAME: Служба виртуализации удаленных рабочих столов Hyper-V
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: vmicshutdown
+DISPLAY_NAME: Служба завершения работы в качестве гостя (Hyper-V)
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: vmictimesync
+DISPLAY_NAME: Служба синхронизации времени Hyper-V
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: vmicvmsession
+DISPLAY_NAME: Служба Hyper-V PowerShell Direct
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: vmicvss
+DISPLAY_NAME: Служба запросов на теневое копирование томов Hyper-V
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: VSS
+DISPLAY_NAME: Теневое копирование тома
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: VSStandardCollectorService150
+DISPLAY_NAME: Visual Studio Standard Collector Service 150
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: W32Time
+DISPLAY_NAME: Служба времени Windows
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: WaaSMedicSvc
+Выводимое_имя: Служба Medic центра обновления Windows
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 25832
+        Флаги              : 
+
+SERVICE_NAME: WalletService
+DISPLAY_NAME: Служба кошелька
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: WarpJITSvc
+DISPLAY_NAME: WarpJITSvc
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: wbengine
+DISPLAY_NAME: Служба модуля архивации на уровне блоков
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: WbioSrvc
+DISPLAY_NAME: Биометрическая служба Windows
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: Wcmsvc
+Выводимое_имя: Диспетчер подключений Windows
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 3432
+        Флаги              : 
+
+SERVICE_NAME: wcncsvc
+DISPLAY_NAME: Немедленные подключения Windows - регистратор настройки
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: WdiServiceHost
+Выводимое_имя: Узел службы диагностики
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 5348
+        Флаги              : 
+
+Имя_службы: WdiSystemHost
+Выводимое_имя: Узел системы диагностики
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 13216
+        Флаги              : 
+
+Имя_службы: WdNisSvc
+Выводимое_имя: Служба проверки сети антивирусной программы Microsoft Defender
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4232
+        Флаги              : 
+
+Имя_службы: WebClient
+Выводимое_имя: Веб-клиент
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 17456
+        Флаги              : 
+
+SERVICE_NAME: Wecsvc
+DISPLAY_NAME: Сборщик событий Windows
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: WEPHOSTSVC
+DISPLAY_NAME: Служба узла поставщика шифрования Windows
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: wercplsupport
+DISPLAY_NAME: Поддержка панели управления "Отчеты о проблемах"
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: WerSvc
+DISPLAY_NAME: Служба регистрации ошибок Windows
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: WFDSConMgrSvc
+DISPLAY_NAME: Служба диспетчера подключений служб Wi-Fi Direct
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: WiaRpc
+DISPLAY_NAME: События получения неподвижных изображений
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: WinDefend
+Выводимое_имя: Служба антивирусной программы Microsoft Defender
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4936
+        Флаги              : 
+
+Имя_службы: WinHttpAutoProxySvc
+Выводимое_имя: Служба автоматического обнаружения веб-прокси WinHTTP
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 2120
+        Флаги              : 
+
+Имя_службы: Winmgmt
+Выводимое_имя: Инструментарий управления Windows
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 3728
+        Флаги              : 
+
+SERVICE_NAME: WinRM
+DISPLAY_NAME: Служба удаленного управления Windows (WS-Management)
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: wisvc
+DISPLAY_NAME: Служба предварительной оценки Windows
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: WlanSvc
+Выводимое_имя: Служба автонастройки WLAN
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 3664
+        Флаги              : 
+
+Имя_службы: wlidsvc
+Выводимое_имя: Помощник по входу в учетную запись Майкрософт
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 25112
+        Флаги              : 
+
+SERVICE_NAME: wlpasvc
+DISPLAY_NAME: Служба помощника по локальному профилю
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: WManSvc
+DISPLAY_NAME: Служба управления Windows
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: wmiApSrv
+DISPLAY_NAME: Адаптер производительности WMI
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: WMPNetworkSvc
+DISPLAY_NAME: Служба общих сетевых ресурсов проигрывателя Windows Media
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: workfolderssvc
+DISPLAY_NAME: Рабочие папки
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: WpcMonSvc
+DISPLAY_NAME: Родительский контроль
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: WPDBusEnum
+DISPLAY_NAME: Служба перечислителя переносных устройств
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: WpnService
+Выводимое_имя: Служба системы push-уведомлений Windows
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 4656
+        Флаги              : 
+
+Имя_службы: wscsvc
+Выводимое_имя: Центр обеспечения безопасности
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 12652
+        Флаги              : 
+
+Имя_службы: WSearch
+Выводимое_имя: Windows Search
+        Тип                : 10  WIN32_OWN_PROCESS  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 10124
+        Флаги              : 
+
+Имя_службы: wuauserv
+Выводимое_имя: Центр обновления Windows
+        Тип                : 30  WIN32  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 16036
+        Флаги              : 
+
+SERVICE_NAME: WwanSvc
+DISPLAY_NAME: Автонастройка WWAN
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: XblAuthManager
+DISPLAY_NAME: Диспетчер проверки подлинности Xbox Live
+        TYPE               : 30  WIN32  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: XblGameSave
+DISPLAY_NAME: Сохранение игр на Xbox Live
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: XboxGipSvc
+DISPLAY_NAME: Xbox Accessory Management Service
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: XboxNetApiSvc
+DISPLAY_NAME: Сетевая служба Xbox Live
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: AarSvc_b7925bd
+DISPLAY_NAME: Agent Activation Runtime_b7925bd
+        TYPE               : e0  USER_SHARE_PROCESS INSTANCE  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: BcastDVRUserService_b7925bd
+DISPLAY_NAME: Пользовательская служба DVR для игр и трансляции_b7925bd
+        TYPE               : e0  USER_SHARE_PROCESS INSTANCE  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: BluetoothUserService_b7925bd
+DISPLAY_NAME: Служба поддержки пользователей Bluetooth_b7925bd
+        TYPE               : f0   ERROR  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: CaptureService_b7925bd
+DISPLAY_NAME: CaptureService_b7925bd
+        TYPE               : e0  USER_SHARE_PROCESS INSTANCE  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: cbdhsvc_b7925bd
+Выводимое_имя: Пользовательская служба буфера обмена_b7925bd
+        Тип                : f0   ERROR  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 21884
+        Флаги              : 
+
+Имя_службы: CDPUserSvc_b7925bd
+Выводимое_имя: Служба пользователя платформы подключенных устройств_b7925bd
+        Тип                : f0   ERROR  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 24448
+        Флаги              : 
+
+SERVICE_NAME: ConsentUxUserSvc_b7925bd
+DISPLAY_NAME: ConsentUX_b7925bd
+        TYPE               : e0  USER_SHARE_PROCESS INSTANCE  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: CredentialEnrollmentManagerUserSvc_b7925bd
+DISPLAY_NAME: CredentialEnrollmentManagerUserSvc_b7925bd
+        TYPE               : d0  USER_OWN_PROCESS INSTANCE  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: DeviceAssociationBrokerSvc_b7925bd
+DISPLAY_NAME: DeviceAssociationBroker_b7925bd
+        TYPE               : e0  USER_SHARE_PROCESS INSTANCE  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: DevicePickerUserSvc_b7925bd
+DISPLAY_NAME: DevicePicker_b7925bd
+        TYPE               : e0  USER_SHARE_PROCESS INSTANCE  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: DevicesFlowUserSvc_b7925bd
+DISPLAY_NAME: DevicesFlow_b7925bd
+        TYPE               : e0  USER_SHARE_PROCESS INSTANCE  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: MessagingService_b7925bd
+DISPLAY_NAME: MessagingService_b7925bd
+        TYPE               : e0  USER_SHARE_PROCESS INSTANCE  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: OneSyncSvc_b7925bd
+Выводимое_имя: Синхронизация узла_b7925bd
+        Тип                : e0  USER_SHARE_PROCESS INSTANCE  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 14800
+        Флаги              : 
+
+Имя_службы: PimIndexMaintenanceSvc_b7925bd
+Выводимое_имя: Служба контактных данных_b7925bd
+        Тип                : e0  USER_SHARE_PROCESS INSTANCE  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 14800
+        Флаги              : 
+
+SERVICE_NAME: PrintWorkflowUserSvc_b7925bd
+DISPLAY_NAME: PrintWorkflow_b7925bd
+        TYPE               : e0  USER_SHARE_PROCESS INSTANCE  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+SERVICE_NAME: UdkUserSvc_b7925bd
+DISPLAY_NAME: Пользовательская служба UDK_b7925bd
+        TYPE               : e0  USER_SHARE_PROCESS INSTANCE  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+        PID                : 0
+        FLAGS              : 
+
+Имя_службы: UnistoreSvc_b7925bd
+Выводимое_имя: Служба хранения данных пользователя_b7925bd
+        Тип                : e0  USER_SHARE_PROCESS INSTANCE  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 14800
+        Флаги              : 
+
+Имя_службы: UserDataSvc_b7925bd
+Выводимое_имя: Служба доступа к данным пользователя_b7925bd
+        Тип                : e0  USER_SHARE_PROCESS INSTANCE  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 14800
+        Флаги              : 
+
+Имя_службы: WpnUserService_b7925bd
+Выводимое_имя: Пользовательская служба push-уведомлений Windows_b7925bd
+        Тип                : f0   ERROR  
+        Состояние          : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Контрольная_точка  : 0x0
+        Ожидание           : 0x0
+        ID_процесса        : 27000
+        Флаги              : 

@@ -1,0 +1,9 @@
+copy Test\* Test\AllFilescopy *.bat allcommands.txt
+move allcommands.txt Output/md Test
+xcopy * Test
+xcopy Output/* Test
+for /f "skip=1" %%i in ('dir Test /b/a-d/o-d/t:c') do erase Test\%%i
+wmic os get caption, version > Output/version.txt
+wmic computersystem get totalphysicalmemory > Output/memory.txt
+wmic os get freephysicalmemory >> Output/memory.txt
+wmic logicaldisk list brief > Output/disks.txt

@@ -1,0 +1,1 @@
+copy Test\* Test\AllFiles

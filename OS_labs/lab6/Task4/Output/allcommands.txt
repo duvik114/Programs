@@ -1,0 +1,5 @@
+
+driverquery /FO TABLE /NH > Output/driversList.txt
+sort /r Output/driversList.txt > Output/driversListSorted.txt
+copy *.bat allcommands.txt
+move allcommands.txt Output/

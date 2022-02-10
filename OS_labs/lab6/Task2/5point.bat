@@ -1,0 +1,1 @@
+fc C:\Windows\saas.txt \\%computername%\temp\saas.txt

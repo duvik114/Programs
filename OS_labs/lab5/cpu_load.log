@@ -1,0 +1,1020 @@
+Thu Dec 23 10:07:09 MSK 2021 1339 root 20 0 239016 18584 1796 R 22.2 8.5 0:03.30 mem.bash
+Thu Dec 23 10:07:10 MSK 2021 Mib Mem: 213.3 total 6.4 free 131.8 used 75.1 buff/cache
+Thu Dec 23 10:07:10 MSK 2021 Mib Swap: 820.0 total 771.4 free 48.6 used 73.2 avail mem
+Thu Dec 23 10:07:10 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:08:10 MSK 2021 1339 root 20 0 274392 37108 1776 R 27.8 17.0 0:18.51 mem.bash
+Thu Dec 23 10:08:11 MSK 2021 Mib Mem: 213.3 total 6.7 free 140.5 used 66.1 buff/cache
+Thu Dec 23 10:08:11 MSK 2021 Mib Swap: 820.0 total 742.8 free 77.2 used 64.6 avail mem
+Thu Dec 23 10:08:11 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:09:11 MSK 2021 1339 root 20 0 299472 38268 1776 S 10.5 17.5 0:36.52 mem.bash 98942 root 20 0 223308 3844 2796 R 5.3 1.8 0:00.14 mem.bash 102005 root 20 0 299472 36496 0 R 0.0 16.7 0:00.00 mem.bash
+Thu Dec 23 10:09:11 MSK 2021 Mib Mem: 213.3 total 5.7 free 148.3 used 59.3 buff/cache
+Thu Dec 23 10:09:12 MSK 2021 Mib Swap: 820.0 total 714.1 free 105.9 used 58.4 avail mem
+Thu Dec 23 10:09:12 MSK 2021 1339 98942 1 2 3
+
+Thu Dec 23 10:10:12 MSK 2021 1339 root 20 0 310296 31760 1804 S 16.7 14.5 0:45.60 mem.bash 98942 root 20 0 234132 13096 2796 S 5.6 6.0 0:02.59 mem.bash 143696 root 20 0 234132 10300 0 R 0.0 4.7 0:00.00 mem.bash 143697 root 20 0 310296 29960 0 R 0.0 13.7 0:00.00 mem.bash
+Thu Dec 23 10:10:12 MSK 2021 Mib Mem: 213.3 total 8.2 free 150.3 used 54.8 buff/cache
+Thu Dec 23 10:10:12 MSK 2021 Mib Swap: 820.0 total 689.8 free 130.2 used 54.9 avail mem
+Thu Dec 23 10:10:13 MSK 2021 1339 98942 98943 1 2
+
+Thu Dec 23 10:11:13 MSK 2021 1339 root 20 0 329304 44004 1784 R 31.2 20.1 1:03.33 mem.bash
+Thu Dec 23 10:11:13 MSK 2021 Mib Mem: 213.3 total 6.6 free 145.3 used 61.5 buff/cache
+Thu Dec 23 10:11:13 MSK 2021 Mib Swap: 820.0 total 686.0 free 134.0 used 60.0 avail mem
+Thu Dec 23 10:11:13 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:12:14 MSK 2021 1339 root 20 0 348708 49248 1784 R 22.7 22.5 1:25.52 mem.bash
+Thu Dec 23 10:12:14 MSK 2021 Mib Mem: 213.3 total 7.9 free 147.4 used 58.0 buff/cache
+Thu Dec 23 10:12:14 MSK 2021 Mib Swap: 820.0 total 669.2 free 150.8 used 58.0 avail mem
+Thu Dec 23 10:12:14 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:13:14 MSK 2021 1339 root 20 0 366000 55592 1772 S 33.3 25.5 1:48.78 mem.bash 222290 root 20 0 366000 53820 0 R 0.0 24.6 0:00.00 mem.bash
+Thu Dec 23 10:13:15 MSK 2021 Mib Mem: 213.3 total 6.0 free 153.3 used 54.0 buff/cache
+Thu Dec 23 10:13:15 MSK 2021 Mib Swap: 820.0 total 657.4 free 162.6 used 52.1 avail mem
+Thu Dec 23 10:13:15 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:14:15 MSK 2021 1339 root 20 0 381444 57956 1760 S 37.5 26.5 2:12.48 mem.bash 242067 root 20 0 381444 56200 0 R 0.0 25.7 0:00.00 mem.bash
+Thu Dec 23 10:14:16 MSK 2021 Mib Mem: 213.3 total 7.6 free 153.4 used 52.2 buff/cache
+Thu Dec 23 10:14:16 MSK 2021 Mib Swap: 820.0 total 643.3 free 176.6 used 51.7 avail mem
+Thu Dec 23 10:14:16 MSK 2021 1339 11 1 2 3
+
+Thu Dec 23 10:15:16 MSK 2021 1339 root 20 0 396096 67528 1760 R 37.5 30.9 2:36.56 mem.bash
+Thu Dec 23 10:15:16 MSK 2021 Mib Mem: 213.3 total 7.0 free 161.2 used 45.2 buff/cache
+Thu Dec 23 10:15:17 MSK 2021 Mib Swap: 820.0 total 637.3 free 182.7 used 44.3 avail mem
+Thu Dec 23 10:15:17 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:16:17 MSK 2021 1339 root 20 0 409164 65748 1752 R 41.2 30.1 3:00.94 mem.bash
+Thu Dec 23 10:16:17 MSK 2021 Mib Mem: 213.3 total 12.8 free 158.5 used 42.1 buff/cache
+Thu Dec 23 10:16:17 MSK 2021 Mib Swap: 820.0 total 621.3 free 198.7 used 47.0 avail mem
+Thu Dec 23 10:16:18 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:17:18 MSK 2021 1339 root 20 0 421704 63064 1660 R 31.6 28.9 3:25.62 mem.bash
+Thu Dec 23 10:17:18 MSK 2021 Mib Mem: 213.3 total 8.5 free 153.8 used 51.0 buff/cache
+Thu Dec 23 10:17:18 MSK 2021 Mib Swap: 820.0 total 604.4 free 215.6 used 47.6 avail mem
+Thu Dec 23 10:17:18 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:18:19 MSK 2021 1339 root 20 0 433584 68700 1660 S 40.0 31.5 3:50.58 mem.bash 308810 root 20 0 433584 67040 0 R 0.0 30.7 0:00.00 mem.bash
+Thu Dec 23 10:18:19 MSK 2021 Mib Mem: 213.3 total 7.0 free 159.2 used 47.1 buff/cache
+Thu Dec 23 10:18:19 MSK 2021 Mib Swap: 820.0 total 597.9 free 222.1 used 39.3 avail mem
+Thu Dec 23 10:18:19 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:19:19 MSK 2021 1339 root 20 0 444672 69080 1660 S 43.8 31.6 4:15.76 mem.bash 323109 root 20 0 444672 67420 0 R 0.0 30.9 0:00.00 mem.bash
+Thu Dec 23 10:19:20 MSK 2021 Mib Mem: 213.3 total 13.2 free 155.4 used 44.7 buff/cache
+Thu Dec 23 10:19:20 MSK 2021 Mib Swap: 820.0 total 582.6 free 237.4 used 46.4 avail mem
+Thu Dec 23 10:19:20 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:20:20 MSK 2021 1339 root 20 0 455496 71036 1660 S 37.5 32.5 4:41.13 mem.bash 337005 root 20 0 455496 69380 0 R 0.0 31.8 0:00.00 mem.bash
+Thu Dec 23 10:20:20 MSK 2021 Mib Mem: 213.3 total 9.3 free 160.2 used 43.8 buff/cache
+Thu Dec 23 10:20:21 MSK 2021 Mib Swap: 820.0 total 578.1 free 241.9 used 45.3 avail mem
+Thu Dec 23 10:20:21 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:21:21 MSK 2021 1339 root 20 0 466056 73600 1680 R 41.2 33.7 5:06.70 mem.bash
+Thu Dec 23 10:21:21 MSK 2021 Mib Mem: 213.3 total 6.4 free 162.4 used 44.5 buff/cache
+Thu Dec 23 10:21:21 MSK 2021 Mib Swap: 820.0 total 570.1 free 249.9 used 43.2 avail mem
+Thu Dec 23 10:21:22 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:22:22 MSK 2021 1339 root 20 0 476220 71316 1664 R 27.3 32.6 5:32.44 mem.bash
+Thu Dec 23 10:22:22 MSK 2021 Mib Mem: 213.3 total 6.0 free 157.5 used 49.8 buff/cache
+Thu Dec 23 10:22:22 MSK 2021 Mib Swap: 820.0 total 554.8 free 265.2 used 47.5 avail mem
+Thu Dec 23 10:22:22 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:23:23 MSK 2021 1339 root 20 0 486252 68976 1664 R 31.2 31.6 5:58.32 mem.bash
+Thu Dec 23 10:23:23 MSK 2021 Mib Mem: 213.3 total 9.2 free 161.3 used 42.9 buff/cache
+Thu Dec 23 10:23:23 MSK 2021 Mib Swap: 820.0 total 544.0 free 276.0 used 44.2 avail mem
+Thu Dec 23 10:23:23 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:24:24 MSK 2021 1339 root 20 0 496152 76228 1664 R 37.5 34.9 6:24.28 mem.bash
+Thu Dec 23 10:24:24 MSK 2021 Mib Mem: 213.3 total 10.6 free 160.2 used 42.5 buff/cache
+Thu Dec 23 10:24:24 MSK 2021 Mib Swap: 820.0 total 538.2 free 281.8 used 45.3 avail mem
+Thu Dec 23 10:24:24 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:25:24 MSK 2021 1339 root 20 0 505260 75360 1664 R 37.5 34.5 6:50.13 mem.bash
+Thu Dec 23 10:25:25 MSK 2021 Mib Mem: 213.3 total 8.7 free 162.1 used 42.5 buff/cache
+Thu Dec 23 10:25:25 MSK 2021 Mib Swap: 820.0 total 531.4 free 288.6 used 43.4 avail mem
+Thu Dec 23 10:25:25 MSK 2021 1339 11 1 2 3
+
+Thu Dec 23 10:26:25 MSK 2021 1339 root 20 0 514500 73480 1664 R 40.0 33.6 7:16.29 mem.bash
+Thu Dec 23 10:26:25 MSK 2021 Mib Mem: 213.3 total 9.9 free 160.7 used 42.7 buff/cache
+Thu Dec 23 10:26:26 MSK 2021 Mib Swap: 820.0 total 520.4 free 299.6 used 44.8 avail mem
+Thu Dec 23 10:26:26 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:27:26 MSK 2021 1339 root 20 0 523608 72060 1664 R 26.1 33.0 7:42.67 mem.bash
+Thu Dec 23 10:27:26 MSK 2021 Mib Mem: 213.3 total 8.2 free 159.0 used 46.1 buff/cache
+Thu Dec 23 10:27:26 MSK 2021 Mib Swap: 820.0 total 509.8 free 310.2 used 46.5 avail mem
+Thu Dec 23 10:27:27 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:28:27 MSK 2021 1339 root 20 0 532584 71292 1660 R 35.3 32.6 8:09.13 mem.bash
+Thu Dec 23 10:28:27 MSK 2021 Mib Mem: 213.3 total 10.6 free 157.8 used 44.9 buff/cache
+Thu Dec 23 10:28:27 MSK 2021 Mib Swap: 820.0 total 500.0 free 320.0 used 44.2 avail mem
+Thu Dec 23 10:28:27 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:29:28 MSK 2021 1339 root 20 0 541296 75756 1660 R 50.0 34.7 8:35.58 mem.bash
+Thu Dec 23 10:29:28 MSK 2021 Mib Mem: 213.3 total 7.8 free 161.7 used 43.9 buff/cache
+Thu Dec 23 10:29:28 MSK 2021 Mib Swap: 820.0 total 495.8 free 324.2 used 44.5 avail mem
+Thu Dec 23 10:29:28 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:30:28 MSK 2021 1339 root 20 0 549876 76920 1660 S 46.7 35.2 9:02.08 mem.bash 457939 root 20 0 549876 75260 0 R 0.0 34.5 0:00.00 mem.bash
+Thu Dec 23 10:30:29 MSK 2021 Mib Mem: 213.3 total 7.0 free 163.2 used 43.1 buff/cache
+Thu Dec 23 10:30:29 MSK 2021 Mib Swap: 820.0 total 488.2 free 331.8 used 43.0 avail mem
+Thu Dec 23 10:30:29 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:31:29 MSK 2021 1339 root 20 0 558192 74760 1660 S 35.3 34.2 9:28.65 mem.bash 468665 root 20 0 558192 73104 0 R 0.0 33.5 0:00.00 mem.bash
+Thu Dec 23 10:31:30 MSK 2021 Mib Mem: 213.3 total 6.8 free 160.8 used 45.7 buff/cache
+Thu Dec 23 10:31:30 MSK 2021 Mib Swap: 820.0 total 477.7 free 342.3 used 44.8 avail mem
+Thu Dec 23 10:31:30 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:32:30 MSK 2021 1339 root 20 0 566244 75020 1648 R 28.0 34.3 9:55.17 mem.bash
+Thu Dec 23 10:32:31 MSK 2021 Mib Mem: 213.3 total 7.1 free 159.1 used 47.1 buff/cache
+Thu Dec 23 10:32:31 MSK 2021 Mib Swap: 820.0 total 469.7 free 350.3 used 42.5 avail mem
+Thu Dec 23 10:32:31 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:33:31 MSK 2021 1339 root 20 0 573240 71652 1644 R 35.3 32.8 10:20.80 mem.bash
+Thu Dec 23 10:33:31 MSK 2021 Mib Mem: 213.3 total 11.9 free 157.2 used 44.2 buff/cache
+Thu Dec 23 10:33:32 MSK 2021 Mib Swap: 820.0 total 459.1 free 360.9 used 49.1 avail mem
+Thu Dec 23 10:33:32 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:34:32 MSK 2021 1339 root 20 0 581028 76256 1644 R 40.0 34.9 10:47.33 mem.bash
+Thu Dec 23 10:34:32 MSK 2021 Mib Mem: 213.3 total 8.5 free 160.1 used 44.7 buff/cache
+Thu Dec 23 10:34:32 MSK 2021 Mib Swap: 820.0 total 456.1 free 363.9 used 44.8 avail mem
+Thu Dec 23 10:34:33 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:35:33 MSK 2021 1339 root 20 0 588288 76460 1644 R 37.5 35.0 11:13.53 mem.bash
+Thu Dec 23 10:35:33 MSK 2021 Mib Mem: 213.3 total 9.3 free 160.1 used 43.9 buff/cache
+Thu Dec 23 10:35:33 MSK 2021 Mib Swap: 820.0 total 449.3 free 370.7 used 34.6 avail mem
+Thu Dec 23 10:35:33 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:36:34 MSK 2021 1339 root 20 0 595812 70868 1644 R 35.3 32.4 11:40.19 mem.bash
+Thu Dec 23 10:36:34 MSK 2021 Mib Mem: 213.3 total 10.3 free 157.1 used 45.8 buff/cache
+Thu Dec 23 10:36:34 MSK 2021 Mib Swap: 820.0 total 436.3 free 383.7 used 47.8 avail mem
+Thu Dec 23 10:36:34 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:37:34 MSK 2021 1339 root 20 0 603204 72356 1636 R 36.8 33.1 12:06.90 mem.bash
+Thu Dec 23 10:37:35 MSK 2021 Mib Mem: 213.3 total 8.4 free 159.0 used 45.9 buff/cache
+Thu Dec 23 10:37:35 MSK 2021 Mib Swap: 820.0 total 430.5 free 389.5 used 46.7 avail mem
+Thu Dec 23 10:37:35 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:38:35 MSK 2021 1339 root 20 0 609540 71864 1636 S 50.0 32.9 12:32.86 mem.bash 534592 root 20 0 609540 70228 0 R 0.0 32.2 0:00.00 mem.bash
+Thu Dec 23 10:38:36 MSK 2021 Mib Mem: 213.3 total 7.6 free 160.3 used 45.4 buff/cache
+Thu Dec 23 10:38:36 MSK 2021 Mib Swap: 820.0 total 423.7 free 396.3 used 44.7 avail mem
+Thu Dec 23 10:38:36 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:39:36 MSK 2021 1339 root 20 0 617064 70568 1636 S 37.5 32.3 12:59.82 mem.bash 544166 root 20 0 617064 68932 0 R 0.0 31.6 0:00.00 mem.bash
+Thu Dec 23 10:39:36 MSK 2021 Mib Mem: 213.3 total 9.0 free 158.4 used 45.9 buff/cache
+Thu Dec 23 10:39:37 MSK 2021 Mib Swap: 820.0 total 415.2 free 404.8 used 46.5 avail mem
+Thu Dec 23 10:39:37 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:40:37 MSK 2021 1339 root 20 0 624060 71196 1636 S 40.0 32.6 13:26.57 mem.bash 553189 root 20 0 624060 69560 0 R 0.0 31.8 0:00.00 mem.bash
+Thu Dec 23 10:40:37 MSK 2021 Mib Mem: 213.3 total 8.6 free 159.2 used 45.5 buff/cache
+Thu Dec 23 10:40:37 MSK 2021 Mib Swap: 820.0 total 408.9 free 411.1 used 47.2 avail mem
+Thu Dec 23 10:40:38 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:41:38 MSK 2021 1339 root 20 0 631188 71884 1636 R 31.6 32.9 13:53.44 mem.bash
+Thu Dec 23 10:41:38 MSK 2021 Mib Mem: 213.3 total 13.0 free 155.2 used 45.2 buff/cache
+Thu Dec 23 10:41:38 MSK 2021 Mib Swap: 820.0 total 400.1 free 419.9 used 47.2 avail mem
+Thu Dec 23 10:41:39 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:42:39 MSK 2021 1339 root 20 0 638448 74112 1624 S 28.6 33.9 14:20.82 mem.bash 571676 root 20 0 638448 72488 0 R 0.0 33.2 0:00.00 mem.bash
+Thu Dec 23 10:42:39 MSK 2021 Mib Mem: 213.3 total 8.9 free 158.6 used 45.7 buff/cache
+Thu Dec 23 10:42:39 MSK 2021 Mib Swap: 820.0 total 397.4 free 422.6 used 40.1 avail mem
+Thu Dec 23 10:42:40 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:43:40 MSK 2021 1339 root 20 0 645840 75452 1624 R 43.8 34.5 14:48.33 mem.bash
+Thu Dec 23 10:43:40 MSK 2021 Mib Mem: 213.3 total 8.7 free 159.9 used 44.7 buff/cache
+Thu Dec 23 10:43:40 MSK 2021 Mib Swap: 820.0 total 391.4 free 428.6 used 44.9 avail mem
+Thu Dec 23 10:43:40 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:44:41 MSK 2021 1339 root 20 0 653100 77556 1620 R 41.2 35.5 15:15.92 mem.bash
+Thu Dec 23 10:44:41 MSK 2021 Mib Mem: 213.3 total 7.7 free 162.1 used 43.5 buff/cache
+Thu Dec 23 10:44:41 MSK 2021 Mib Swap: 820.0 total 386.1 free 433.9 used 32.6 avail mem
+Thu Dec 23 10:44:41 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:45:41 MSK 2021 1339 root 20 0 660096 77684 1620 R 43.8 35.6 15:43.23 mem.bash
+Thu Dec 23 10:45:42 MSK 2021 Mib Mem: 213.3 total 9.0 free 160.9 used 43.3 buff/cache
+Thu Dec 23 10:45:42 MSK 2021 Mib Swap: 820.0 total 379.6 free 440.4 used 33.0 avail mem
+Thu Dec 23 10:45:42 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:46:42 MSK 2021 1339 root 20 0 667092 77600 1620 R 40.0 35.5 16:10.91 mem.bash
+Thu Dec 23 10:46:42 MSK 2021 Mib Mem: 213.3 total 8.3 free 162.1 used 42.9 buff/cache
+Thu Dec 23 10:46:43 MSK 2021 Mib Swap: 820.0 total 372.5 free 447.5 used 42.7 avail mem
+Thu Dec 23 10:46:43 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:47:43 MSK 2021 1339 root 20 0 674088 74492 1616 R 33.3 34.1 16:38.54 mem.bash
+Thu Dec 23 10:47:43 MSK 2021 Mib Mem: 213.3 total 10.1 free 159.5 used 43.8 buff/cache
+Thu Dec 23 10:47:43 MSK 2021 Mib Swap: 820.0 total 362.3 free 457.7 used 43.0 avail mem
+Thu Dec 23 10:47:44 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:48:44 MSK 2021 1339 root 20 0 681084 76544 1616 R 41.2 35.0 17:06.27 mem.bash
+Thu Dec 23 10:48:44 MSK 2021 Mib Mem: 213.3 total 9.8 free 160.2 used 43.3 buff/cache
+Thu Dec 23 10:48:44 MSK 2021 Mib Swap: 820.0 total 357.5 free 462.5 used 41.5 avail mem
+Thu Dec 23 10:48:44 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:49:45 MSK 2021 1339 root 20 0 687948 77404 1616 R 35.3 35.4 17:34.03 mem.bash
+Thu Dec 23 10:49:45 MSK 2021 Mib Mem: 213.3 total 9.6 free 161.7 used 42.0 buff/cache
+Thu Dec 23 10:49:45 MSK 2021 Mib Swap: 820.0 total 351.5 free 468.5 used 44.8 avail mem
+Thu Dec 23 10:49:45 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:50:45 MSK 2021 1339 root 20 0 694680 79812 1616 R 43.8 36.5 18:01.78 mem.bash
+Thu Dec 23 10:50:46 MSK 2021 Mib Mem: 213.3 total 8.2 free 162.2 used 42.9 buff/cache
+Thu Dec 23 10:50:46 MSK 2021 Mib Swap: 820.0 total 346.4 free 473.6 used 43.5 avail mem
+Thu Dec 23 10:50:46 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:51:46 MSK 2021 1339 root 20 0 701280 73984 1616 S 31.6 33.9 18:29.63 mem.bash 652296 root 20 0 701280 72372 0 R 0.0 33.1 0:00.00 mem.bash
+Thu Dec 23 10:51:47 MSK 2021 Mib Mem: 213.3 total 12.9 free 157.4 used 43.0 buff/cache
+Thu Dec 23 10:51:47 MSK 2021 Mib Swap: 820.0 total 334.9 free 485.1 used 47.5 avail mem
+Thu Dec 23 10:51:47 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:52:47 MSK 2021 1339 root 20 0 708012 78756 1616 S 28.0 36.1 18:57.52 mem.bash 660859 root 20 0 708012 77140 0 R 0.0 35.3 0:00.00 mem.bash
+Thu Dec 23 10:52:48 MSK 2021 Mib Mem: 213.3 total 6.4 free 162.2 used 44.7 buff/cache
+Thu Dec 23 10:52:48 MSK 2021 Mib Swap: 820.0 total 332.9 free 487.1 used 40.4 avail mem
+Thu Dec 23 10:52:48 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:53:48 MSK 2021 1339 root 20 0 714612 78460 1616 R 37.5 35.9 19:25.38 mem.bash
+Thu Dec 23 10:53:48 MSK 2021 Mib Mem: 213.3 total 8.2 free 161.9 used 43.3 buff/cache
+Thu Dec 23 10:53:49 MSK 2021 Mib Swap: 820.0 total 326.1 free 493.9 used 40.7 avail mem
+Thu Dec 23 10:53:49 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:54:49 MSK 2021 1339 root 20 0 721080 28616 1596 S 28.6 13.1 19:52.85 mem.bash 677701 root 20 0 721080 27020 0 R 0.0 12.4 0:00.00 mem.bash
+Thu Dec 23 10:54:49 MSK 2021 Mib Mem: 213.3 total 8.8 free 140.4 used 64.1 buff/cache
+Thu Dec 23 10:54:50 MSK 2021 Mib Swap: 820.0 total 267.9 free 552.1 used 61.1 avail mem
+Thu Dec 23 10:54:50 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:55:50 MSK 2021 1339 root 20 0 728208 17192 1596 S 33.3 7.9 20:20.11 mem.bash 686776 root 20 0 728208 15596 0 R 0.0 7.1 0:00.00 mem.bash
+Thu Dec 23 10:55:51 MSK 2021 Mib Mem: 213.3 total 9.2 free 155.9 used 48.2 buff/cache
+Thu Dec 23 10:55:51 MSK 2021 Mib Swap: 820.0 total 235.5 free 584.5 used 45.5 avail mem
+Thu Dec 23 10:55:51 MSK 2021 1339 674679 1 2 3
+
+Thu Dec 23 10:56:51 MSK 2021 1339 root 20 0 735468 16852 1476 S 31.8 7.7 20:47.40 mem.bash 696144 root 20 0 735468 15376 0 R 0.0 7.0 0:00.00 mem.bash
+Thu Dec 23 10:56:52 MSK 2021 Mib Mem: 213.3 total 5.9 free 141.8 used 65.7 buff/cache
+Thu Dec 23 10:56:52 MSK 2021 Mib Swap: 820.0 total 227.7 free 592.3 used 60.0 avail mem
+Thu Dec 23 10:56:52 MSK 2021 1339 674679 1 2 3
+
+Thu Dec 23 10:57:52 MSK 2021 1339 root 20 0 742728 13908 1476 S 21.2 6.4 21:14.81 mem.bash 705407 root 20 0 742728 12432 0 R 0.0 5.7 0:00.00 mem.bash
+Thu Dec 23 10:57:53 MSK 2021 Mib Mem: 213.3 total 30.6 free 99.0 used 83.7 buff/cache
+Thu Dec 23 10:57:53 MSK 2021 Mib Swap: 820.0 total 235.1 free 584.9 used 106.7 avail mem
+Thu Dec 23 10:57:53 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:58:53 MSK 2021 1339 root 20 0 749988 21196 1476 S 43.8 9.7 21:43.16 mem.bash 714756 root 20 0 749988 19720 0 R 0.0 9.0 0:00.00 mem.bash
+Thu Dec 23 10:58:54 MSK 2021 Mib Mem: 213.3 total 23.5 free 106.1 used 83.7 buff/cache
+Thu Dec 23 10:58:54 MSK 2021 Mib Swap: 820.0 total 235.1 free 584.9 used 99.6 avail mem
+Thu Dec 23 10:58:54 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 10:59:54 MSK 2021 1339 root 20 0 756984 28212 1476 S 41.2 12.9 22:11.42 mem.bash 723761 root 20 0 756984 26736 0 R 0.0 12.2 0:00.00 mem.bash
+Thu Dec 23 10:59:54 MSK 2021 Mib Mem: 213.3 total 16.6 free 113.0 used 83.7 buff/cache
+Thu Dec 23 10:59:54 MSK 2021 Mib Swap: 820.0 total 235.1 free 584.9 used 93.7 avail mem
+Thu Dec 23 10:59:55 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:00:55 MSK 2021 1339 root 20 0 763848 35088 1476 R 43.8 16.1 22:39.79 mem.bash
+Thu Dec 23 11:00:55 MSK 2021 Mib Mem: 213.3 total 9.9 free 119.7 used 83.7 buff/cache
+Thu Dec 23 11:00:55 MSK 2021 Mib Swap: 820.0 total 235.1 free 584.9 used 85.9 avail mem
+Thu Dec 23 11:00:55 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:01:56 MSK 2021 1339 root 20 0 770580 41824 1476 R 50.0 19.1 23:08.11 mem.bash
+Thu Dec 23 11:01:56 MSK 2021 Mib Mem: 213.3 total 7.2 free 126.3 used 79.9 buff/cache
+Thu Dec 23 11:01:56 MSK 2021 Mib Swap: 820.0 total 235.4 free 584.6 used 78.4 avail mem
+Thu Dec 23 11:01:56 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:02:56 MSK 2021 1339 root 20 0 777180 45964 1476 R 35.3 21.0 23:36.44 mem.bash
+Thu Dec 23 11:02:57 MSK 2021 Mib Mem: 213.3 total 9.1 free 131.6 used 72.6 buff/cache
+Thu Dec 23 11:02:57 MSK 2021 Mib Swap: 820.0 total 232.9 free 587.1 used 73.0 avail mem
+Thu Dec 23 11:02:57 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:03:57 MSK 2021 1339 root 20 0 783648 52428 1476 S 47.1 24.0 24:04.78 mem.bash 757961 root 20 0 783648 50952 0 R 0.0 23.3 0:00.00 mem.bash
+Thu Dec 23 11:03:57 MSK 2021 Mib Mem: 213.3 total 4.0 free 139.0 used 70.4 buff/cache
+Thu Dec 23 11:03:58 MSK 2021 Mib Swap: 820.0 total 232.9 free 587.1 used 67.7 avail mem
+Thu Dec 23 11:03:58 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:04:58 MSK 2021 1339 root 20 0 789852 58660 1476 R 43.8 26.9 24:33.04 mem.bash
+Thu Dec 23 11:04:58 MSK 2021 Mib Mem: 213.3 total 6.6 free 144.0 used 62.7 buff/cache
+Thu Dec 23 11:04:58 MSK 2021 Mib Swap: 820.0 total 232.9 free 587.1 used 61.6 avail mem
+Thu Dec 23 11:04:59 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:05:59 MSK 2021 1339 root 20 0 796056 60184 1476 R 47.1 27.6 25:01.28 mem.bash
+Thu Dec 23 11:05:59 MSK 2021 Mib Mem: 213.3 total 8.1 free 147.2 used 58.0 buff/cache
+Thu Dec 23 11:05:59 MSK 2021 Mib Swap: 820.0 total 230.1 free 589.9 used 54.4 avail mem
+Thu Dec 23 11:05:59 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:07:00 MSK 2021 1339 root 20 0 802260 61036 1476 R 53.3 27.9 25:29.63 mem.bash
+Thu Dec 23 11:07:00 MSK 2021 Mib Mem: 213.3 total 9.6 free 148.8 used 54.9 buff/cache
+Thu Dec 23 11:07:00 MSK 2021 Mib Swap: 820.0 total 224.8 free 595.2 used 57.9 avail mem
+Thu Dec 23 11:07:00 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:08:01 MSK 2021 1339 root 20 0 808332 63240 1476 S 36.8 29.0 25:57.87 mem.bash 789616 root 20 0 808332 61768 0 R 0.0 28.3 0:00.00 mem.bash
+Thu Dec 23 11:08:01 MSK 2021 Mib Mem: 213.3 total 10.1 free 149.8 used 53.4 buff/cache
+Thu Dec 23 11:08:01 MSK 2021 Mib Swap: 820.0 total 221.3 free 598.7 used 47.8 avail mem
+Thu Dec 23 11:08:01 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:09:01 MSK 2021 1339 root 20 0 814272 63080 1476 S 43.8 28.9 26:26.15 mem.bash 797282 root 20 0 814272 61608 0 R 0.0 28.2 0:00.00 mem.bash
+Thu Dec 23 11:09:02 MSK 2021 Mib Mem: 213.3 total 10.7 free 151.0 used 51.6 buff/cache
+Thu Dec 23 11:09:02 MSK 2021 Mib Swap: 820.0 total 215.3 free 604.7 used 54.6 avail mem
+Thu Dec 23 11:09:02 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:10:02 MSK 2021 1339 root 20 0 820080 68296 1476 S 50.0 31.3 26:54.50 mem.bash 804814 root 20 0 820080 66820 0 R 0.0 30.6 0:00.00 mem.bash
+Thu Dec 23 11:10:02 MSK 2021 Mib Mem: 213.3 total 7.6 free 154.3 used 51.4 buff/cache
+Thu Dec 23 11:10:03 MSK 2021 Mib Swap: 820.0 total 214.5 free 605.5 used 46.1 avail mem
+Thu Dec 23 11:10:03 MSK 2021 1339 10 1 2 3
+
+Thu Dec 23 11:11:03 MSK 2021 1339 root 20 0 826020 67544 1476 R 50.0 30.9 27:22.86 mem.bash
+Thu Dec 23 11:11:03 MSK 2021 Mib Mem: 213.3 total 10.0 free 155.0 used 48.3 buff/cache
+Thu Dec 23 11:11:03 MSK 2021 Mib Swap: 820.0 total 208.0 free 612.0 used 46.7 avail mem
+Thu Dec 23 11:11:04 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:12:04 MSK 2021 1339 root 20 0 831696 69248 1476 R 41.2 31.7 27:51.27 mem.bash
+Thu Dec 23 11:12:04 MSK 2021 Mib Mem: 213.3 total 9.1 free 156.9 used 47.3 buff/cache
+Thu Dec 23 11:12:04 MSK 2021 Mib Swap: 820.0 total 204.2 free 615.8 used 44.7 avail mem
+Thu Dec 23 11:12:04 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:13:05 MSK 2021 1339 root 20 0 837372 72340 1476 S 50.0 33.1 28:19.67 mem.bash 827027 root 20 0 837372 70864 0 R 0.0 32.4 0:00.00 mem.bash
+Thu Dec 23 11:13:05 MSK 2021 Mib Mem: 213.3 total 10.6 free 155.9 used 46.9 buff/cache
+Thu Dec 23 11:13:05 MSK 2021 Mib Swap: 820.0 total 199.5 free 620.5 used 44.6 avail mem
+Thu Dec 23 11:13:05 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:14:05 MSK 2021 1339 root 20 0 843048 71064 1476 R 50.0 32.5 28:48.04 mem.bash
+Thu Dec 23 11:14:06 MSK 2021 Mib Mem: 213.3 total 9.6 free 157.1 used 46.6 buff/cache
+Thu Dec 23 11:14:06 MSK 2021 Mib Swap: 820.0 total 195.0 free 625.0 used 44.5 avail mem
+Thu Dec 23 11:14:06 MSK 2021 1339 68141 1 2 3
+
+Thu Dec 23 11:15:06 MSK 2021 1339 root 20 0 848724 69808 1476 R 50.0 32.0 29:16.51 mem.bash
+Thu Dec 23 11:15:06 MSK 2021 Mib Mem: 213.3 total 10.3 free 157.3 used 45.7 buff/cache
+Thu Dec 23 11:15:07 MSK 2021 Mib Swap: 820.0 total 188.2 free 631.8 used 49.5 avail mem
+Thu Dec 23 11:15:07 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:16:07 MSK 2021 1339 root 20 0 854268 73036 1476 R 41.2 33.4 29:45.07 mem.bash
+Thu Dec 23 11:16:07 MSK 2021 Mib Mem: 213.3 total 7.9 free 160.4 used 45.1 buff/cache
+Thu Dec 23 11:16:08 MSK 2021 Mib Swap: 820.0 total 185.7 free 634.3 used 37.2 avail mem
+Thu Dec 23 11:16:08 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:17:08 MSK 2021 1339 root 20 0 859812 71228 1476 S 50.0 32.6 30:13.60 mem.bash 855777 root 20 0 859812 69752 0 R 0.0 31.9 0:00.00 mem.bash
+Thu Dec 23 11:17:08 MSK 2021 Mib Mem: 213.3 total 9.3 free 159.2 used 44.9 buff/cache
+Thu Dec 23 11:17:08 MSK 2021 Mib Swap: 820.0 total 178.6 free 641.4 used 39.6 avail mem
+Thu Dec 23 11:17:09 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:18:09 MSK 2021 1339 root 20 0 865356 74644 1476 R 41.2 34.2 30:42.13 mem.bash
+Thu Dec 23 11:18:09 MSK 2021 Mib Mem: 213.3 total 7.6 free 161.4 used 44.3 buff/cache
+Thu Dec 23 11:18:09 MSK 2021 Mib Swap: 820.0 total 176.4 free 643.6 used 41.5 avail mem
+Thu Dec 23 11:18:09 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:19:10 MSK 2021 1339 root 20 0 870768 76372 1476 S 47.1 35.0 31:10.63 mem.bash 869865 root 20 0 870768 74896 0 R 0.0 34.3 0:00.00 mem.bash
+Thu Dec 23 11:19:10 MSK 2021 Mib Mem: 213.3 total 8.3 free 162.3 used 42.8 buff/cache
+Thu Dec 23 11:19:10 MSK 2021 Mib Swap: 820.0 total 172.4 free 647.6 used 33.6 avail mem
+Thu Dec 23 11:19:10 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:20:11 MSK 2021 1339 root 20 0 876180 77236 1476 R 43.8 35.4 31:39.13 mem.bash
+Thu Dec 23 11:20:11 MSK 2021 Mib Mem: 213.3 total 9.2 free 161.4 used 42.7 buff/cache
+Thu Dec 23 11:20:11 MSK 2021 Mib Swap: 820.0 total 166.6 free 653.4 used 45.5 avail mem
+Thu Dec 23 11:20:11 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:21:12 MSK 2021 1339 root 20 0 881592 76212 1476 R 41.2 34.9 32:07.70 mem.bash
+Thu Dec 23 11:21:12 MSK 2021 Mib Mem: 213.3 total 10.9 free 161.0 used 41.4 buff/cache
+Thu Dec 23 11:21:12 MSK 2021 Mib Swap: 820.0 total 161.6 free 658.4 used 40.7 avail mem
+Thu Dec 23 11:21:12 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:22:12 MSK 2021 1339 root 20 0 886872 76796 1476 R 43.8 35.2 32:36.20 mem.bash
+Thu Dec 23 11:22:13 MSK 2021 Mib Mem: 213.3 total 9.2 free 162.1 used 42.0 buff/cache
+Thu Dec 23 11:22:13 MSK 2021 Mib Swap: 820.0 total 157.1 free 662.9 used 34.4 avail mem
+Thu Dec 23 11:22:13 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:23:13 MSK 2021 1339 root 20 0 892152 75804 1476 R 26.9 34.7 33:04.89 mem.bash
+Thu Dec 23 11:23:13 MSK 2021 Mib Mem: 213.3 total 10.8 free 160.9 used 41.6 buff/cache
+Thu Dec 23 11:23:14 MSK 2021 Mib Swap: 820.0 total 150.5 free 669.5 used 39.5 avail mem
+Thu Dec 23 11:23:14 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:24:14 MSK 2021 1339 root 20 0 897564 79436 1476 S 41.2 36.4 33:33.56 mem.bash 904164 root 20 0 897564 77964 0 R 0.0 35.7 0:00.00 mem.bash
+Thu Dec 23 11:24:14 MSK 2021 Mib Mem: 213.3 total 6.5 free 165.4 used 41.4 buff/cache
+Thu Dec 23 11:24:14 MSK 2021 Mib Swap: 820.0 total 149.0 free 671.0 used 37.5 avail mem
+Thu Dec 23 11:24:15 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:25:15 MSK 2021 1339 root 20 0 902712 75968 1476 S 41.2 34.8 34:02.12 mem.bash 910773 root 20 0 902712 74492 0 R 0.0 34.1 0:00.00 mem.bash
+Thu Dec 23 11:25:15 MSK 2021 Mib Mem: 213.3 total 9.7 free 161.6 used 42.1 buff/cache
+Thu Dec 23 11:25:15 MSK 2021 Mib Swap: 820.0 total 140.5 free 679.5 used 40.1 avail mem
+Thu Dec 23 11:25:16 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:26:16 MSK 2021 1339 root 20 0 907860 78544 1476 R 43.8 36.0 34:30.88 mem.bash
+Thu Dec 23 11:26:16 MSK 2021 Mib Mem: 213.3 total 7.7 free 163.7 used 41.9 buff/cache
+Thu Dec 23 11:26:16 MSK 2021 Mib Swap: 820.0 total 138.0 free 682.0 used 38.0 avail mem
+Thu Dec 23 11:26:16 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:27:17 MSK 2021 1339 root 20 0 913140 73200 1476 S 37.5 33.5 34:59.56 mem.bash
+Thu Dec 23 11:27:17 MSK 2021 Mib Mem: 213.3 total 11.5 free 158.9 used 42.9 buff/cache
+Thu Dec 23 11:27:17 MSK 2021 Mib Swap: 820.0 total 127.4 free 692.6 used 41.1 avail mem
+Thu Dec 23 11:27:17 MSK 2021 1339 68141 1 2 3
+
+Thu Dec 23 11:28:17 MSK 2021 1339 root 20 0 918288 77340 1476 R 38.9 35.4 35:28.29 mem.bash
+Thu Dec 23 11:28:18 MSK 2021 Mib Mem: 213.3 total 9.8 free 161.0 used 42.6 buff/cache
+Thu Dec 23 11:28:18 MSK 2021 Mib Swap: 820.0 total 126.4 free 693.6 used 37.7 avail mem
+Thu Dec 23 11:28:18 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:29:18 MSK 2021 1339 root 20 0 923436 75696 1476 R 40.0 34.7 35:57.10 mem.bash
+Thu Dec 23 11:29:19 MSK 2021 Mib Mem: 213.3 total 11.3 free 159.8 used 42.3 buff/cache
+Thu Dec 23 11:29:19 MSK 2021 Mib Swap: 820.0 total 119.9 free 700.1 used 41.9 avail mem
+Thu Dec 23 11:29:19 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:30:19 MSK 2021 1339 root 20 0 928320 78088 1476 R 50.0 35.7 36:25.71 mem.bash
+Thu Dec 23 11:30:19 MSK 2021 Mib Mem: 213.3 total 8.4 free 162.2 used 42.7 buff/cache
+Thu Dec 23 11:30:20 MSK 2021 Mib Swap: 820.0 total 117.2 free 702.8 used 39.4 avail mem
+Thu Dec 23 11:30:20 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:31:20 MSK 2021 1339 root 20 0 933336 71536 1476 R 37.5 32.7 36:54.45 mem.bash
+Thu Dec 23 11:31:20 MSK 2021 Mib Mem: 213.3 total 9.4 free 160.4 used 43.6 buff/cache
+Thu Dec 23 11:31:20 MSK 2021 Mib Swap: 820.0 total 106.1 free 713.9 used 41.3 avail mem
+Thu Dec 23 11:31:21 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:32:21 MSK 2021 1339 root 20 0 938484 72844 1476 R 47.1 33.3 37:23.32 mem.bash
+Thu Dec 23 11:32:21 MSK 2021 Mib Mem: 213.3 total 6.1 free 161.5 used 45.7 buff/cache
+Thu Dec 23 11:32:21 MSK 2021 Mib Swap: 820.0 total 98.8 free 721.2 used 47.8 avail mem
+Thu Dec 23 11:32:22 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:33:22 MSK 2021 1339 root 20 0 943500 72620 1476 R 36.8 33.2 37:52.16 mem.bash
+Thu Dec 23 11:33:22 MSK 2021 Mib Mem: 213.3 total 4.2 free 162.7 used 46.4 buff/cache
+Thu Dec 23 11:33:22 MSK 2021 Mib Swap: 820.0 total 94.6 free 725.4 used 45.4 avail mem
+Thu Dec 23 11:33:23 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:34:23 MSK 2021 1339 root 20 0 948648 72840 1464 S 36.8 33.3 38:21.04 mem.bash 969802 root 20 0 948648 71376 0 R 0.0 32.7 0:00.00 mem.bash
+Thu Dec 23 11:34:23 MSK 2021 Mib Mem: 213.3 total 7.1 free 156.8 used 49.5 buff/cache
+Thu Dec 23 11:34:23 MSK 2021 Mib Swap: 820.0 total 90.6 free 729.4 used 46.3 avail mem
+Thu Dec 23 11:34:24 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:35:24 MSK 2021 1339 root 20 0 953664 72700 1464 R 41.2 33.3 38:49.90 mem.bash
+Thu Dec 23 11:35:24 MSK 2021 Mib Mem: 213.3 total 6.0 free 158.0 used 49.3 buff/cache
+Thu Dec 23 11:35:24 MSK 2021 Mib Swap: 820.0 total 86.7 free 733.3 used 47.7 avail mem
+Thu Dec 23 11:35:25 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:36:25 MSK 2021 1339 root 20 0 958680 59408 1464 R 31.6 27.2 39:18.67 mem.bash
+Thu Dec 23 11:36:25 MSK 2021 Mib Mem: 213.3 total 10.5 free 148.6 used 54.2 buff/cache
+Thu Dec 23 11:36:25 MSK 2021 Mib Swap: 820.0 total 70.0 free 750.0 used 58.4 avail mem
+Thu Dec 23 11:36:25 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:37:26 MSK 2021 1339 root 20 0 963696 64432 1464 S 41.2 29.5 39:47.63 mem.bash 989125 root 20 0 963696 62968 0 R 0.0 28.8 0:00.00 mem.bash
+Thu Dec 23 11:37:26 MSK 2021 Mib Mem: 213.3 total 6.9 free 152.2 used 54.2 buff/cache
+Thu Dec 23 11:37:26 MSK 2021 Mib Swap: 820.0 total 70.0 free 750.0 used 52.1 avail mem
+Thu Dec 23 11:37:26 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:38:27 MSK 2021 1339 root 20 0 968580 65944 1464 R 47.1 30.2 40:16.61 mem.bash
+Thu Dec 23 11:38:27 MSK 2021 Mib Mem: 213.3 total 6.3 free 154.2 used 52.8 buff/cache
+Thu Dec 23 11:38:27 MSK 2021 Mib Swap: 820.0 total 66.7 free 753.3 used 51.4 avail mem
+Thu Dec 23 11:38:27 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:39:27 MSK 2021 1339 root 20 0 973596 66148 1464 S 43.8 30.3 40:45.52 mem.bash 1001870 root 20 0 973596 64688 0 R 0.0 29.6 0:00.00 mem.bash
+Thu Dec 23 11:39:28 MSK 2021 Mib Mem: 213.3 total 7.2 free 155.1 used 51.0 buff/cache
+Thu Dec 23 11:39:28 MSK 2021 Mib Swap: 820.0 total 61.8 free 758.2 used 46.5 avail mem
+Thu Dec 23 11:39:28 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:40:28 MSK 2021 1339 root 20 0 978480 70356 1464 R 43.8 32.2 41:14.47 mem.bash
+Thu Dec 23 11:40:28 MSK 2021 Mib Mem: 213.3 total 5.5 free 157.1 used 50.7 buff/cache
+Thu Dec 23 11:40:29 MSK 2021 Mib Swap: 820.0 total 61.3 free 758.7 used 47.2 avail mem
+Thu Dec 23 11:40:29 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:41:29 MSK 2021 1339 root 20 0 983232 69104 1464 R 38.9 31.6 41:43.21 mem.bash
+Thu Dec 23 11:41:29 MSK 2021 Mib Mem: 213.3 total 8.1 free 157.5 used 47.7 buff/cache
+Thu Dec 23 11:41:29 MSK 2021 Mib Swap: 820.0 total 55.5 free 764.5 used 41.3 avail mem
+Thu Dec 23 11:41:30 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:42:30 MSK 2021 1339 root 20 0 987984 71684 1464 R 37.5 32.8 42:12.08 mem.bash
+Thu Dec 23 11:42:30 MSK 2021 Mib Mem: 213.3 total 8.0 free 158.3 used 47.1 buff/cache
+Thu Dec 23 11:42:30 MSK 2021 Mib Swap: 820.0 total 53.2 free 766.8 used 46.0 avail mem
+Thu Dec 23 11:42:30 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:43:31 MSK 2021 1339 root 20 0 991812 72568 1464 S 41.2 33.2 42:39.97 mem.bash 1025283 root 20 0 991812 71104 0 R 0.0 32.6 0:00.00 mem.bash
+Thu Dec 23 11:43:31 MSK 2021 Mib Mem: 213.3 total 7.1 free 159.1 used 47.1 buff/cache
+Thu Dec 23 11:43:31 MSK 2021 Mib Swap: 820.0 total 50.2 free 769.8 used 41.1 avail mem
+Thu Dec 23 11:43:31 MSK 2021 1339 1003889 1 2 3
+
+Thu Dec 23 11:44:32 MSK 2021 1339 root 20 0 995772 68916 1464 R 36.8 31.5 43:08.03 mem.bash
+Thu Dec 23 11:44:32 MSK 2021 Mib Mem: 213.3 total 10.3 free 157.7 used 45.3 buff/cache
+Thu Dec 23 11:44:32 MSK 2021 Mib Swap: 820.0 total 42.7 free 777.3 used 49.4 avail mem
+Thu Dec 23 11:44:32 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:45:32 MSK 2021 1339 root 20 0 999996 71644 1464 S 35.3 32.8 43:36.42 mem.bash 1035834 root 20 0 999996 70180 0 R 0.0 32.1 0:00.00 mem.bash
+Thu Dec 23 11:45:33 MSK 2021 Mib Mem: 213.3 total 10.7 free 158.3 used 44.4 buff/cache
+Thu Dec 23 11:45:33 MSK 2021 Mib Swap: 820.0 total 39.7 free 780.3 used 46.0 avail mem
+Thu Dec 23 11:45:33 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:46:33 MSK 2021 1339 root 20 0 1004352 73004 1464 R 41.2 33.4 44:04.92 mem.bash
+Thu Dec 23 11:46:34 MSK 2021 Mib Mem: 213.3 total 6.3 free 162.0 used 45.0 buff/cache
+Thu Dec 23 11:46:34 MSK 2021 Mib Swap: 820.0 total 38.5 free 781.5 used 38.2 avail mem
+Thu Dec 23 11:46:34 MSK 2021 1339 48 1 2 3
+
+Thu Dec 23 11:47:34 MSK 2021 1339 root 20 0 1008576 70312 1464 R 31.2 32.2 44:33.32 mem.bash
+Thu Dec 23 11:47:34 MSK 2021 Mib Mem: 213.3 total 11.3 free 158.4 used 43.6 buff/cache
+Thu Dec 23 11:47:35 MSK 2021 Mib Swap: 820.0 total 31.6 free 788.4 used 44.4 avail mem
+Thu Dec 23 11:47:35 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:48:35 MSK 2021 1339 root 20 0 1012932 74652 1464 R 43.8 34.2 45:02.02 mem.bash
+Thu Dec 23 11:48:35 MSK 2021 Mib Mem: 213.3 total 8.4 free 161.2 used 43.7 buff/cache
+Thu Dec 23 11:48:36 MSK 2021 Mib Swap: 820.0 total 31.6 free 788.4 used 40.1 avail mem
+Thu Dec 23 11:48:36 MSK 2021 1339 11 1 2 3
+
+Thu Dec 23 11:49:36 MSK 2021 1339 root 20 0 1017288 75440 1464 R 43.8 34.5 45:30.77 mem.bash
+Thu Dec 23 11:49:36 MSK 2021 Mib Mem: 213.3 total 7.3 free 158.0 used 48.0 buff/cache
+Thu Dec 23 11:49:37 MSK 2021 Mib Swap: 820.0 total 22.6 free 797.4 used 48.7 avail mem
+Thu Dec 23 11:49:37 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:50:37 MSK 2021 1339 root 20 0 1021776 73368 1464 S 43.8 33.6 45:59.65 mem.bash 1063753 root 20 0 1021776 71904 0 R 0.0 32.9 0:00.00 mem.bash
+Thu Dec 23 11:50:37 MSK 2021 Mib Mem: 213.3 total 7.2 free 159.7 used 46.4 buff/cache
+Thu Dec 23 11:50:38 MSK 2021 Mib Swap: 820.0 total 21.1 free 798.9 used 42.0 avail mem
+Thu Dec 23 11:50:38 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:51:38 MSK 2021 1339 root 20 0 1026000 74832 1464 R 43.8 34.3 46:28.30 mem.bash
+Thu Dec 23 11:51:38 MSK 2021 Mib Mem: 213.3 total 7.5 free 161.1 used 44.7 buff/cache
+Thu Dec 23 11:51:38 MSK 2021 Mib Swap: 820.0 total 18.4 free 801.6 used 44.7 avail mem
+Thu Dec 23 11:51:39 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:52:39 MSK 2021 1339 root 20 0 1030356 76216 1464 S 43.8 34.9 46:57.08 mem.bash 1074787 root 20 0 1030356 74756 0 R 0.0 34.2 0:00.00 mem.bash
+Thu Dec 23 11:52:39 MSK 2021 Mib Mem: 213.3 total 7.5 free 162.4 used 43.4 buff/cache
+Thu Dec 23 11:52:39 MSK 2021 Mib Swap: 820.0 total 15.6 free 804.4 used 43.4 avail mem
+Thu Dec 23 11:52:40 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:53:40 MSK 2021 1339 root 20 0 1034580 77328 1464 S 29.6 35.4 47:25.89 mem.bash 1080318 root 20 0 1034580 75868 0 R 0.0 34.7 0:00.00 mem.bash
+Thu Dec 23 11:53:40 MSK 2021 Mib Mem: 213.3 total 8.9 free 160.6 used 43.8 buff/cache
+Thu Dec 23 11:53:40 MSK 2021 Mib Swap: 820.0 total 12.3 free 807.7 used 39.6 avail mem
+Thu Dec 23 11:53:40 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:54:41 MSK 2021 1339 root 20 0 1038936 72164 1464 R 37.5 33.0 47:54.78 mem.bash
+Thu Dec 23 11:54:41 MSK 2021 Mib Mem: 213.3 total 14.0 free 155.8 used 43.6 buff/cache
+Thu Dec 23 11:54:41 MSK 2021 Mib Swap: 820.0 total 3.1 free 816.9 used 46.0 avail mem
+Thu Dec 23 11:54:41 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:55:42 MSK 2021 1339 root 20 0 1043292 76464 1464 R 43.8 35.0 48:23.60 mem.bash
+Thu Dec 23 11:55:42 MSK 2021 Mib Mem: 213.3 total 8.2 free 161.5 used 43.6 buff/cache
+Thu Dec 23 11:55:42 MSK 2021 Mib Swap: 820.0 total 3.1 free 816.9 used 40.2 avail mem
+Thu Dec 23 11:55:42 MSK 2021 1339 11 1 2 3
+
+Thu Dec 23 11:56:42 MSK 2021 1339 root 20 0 1047516 77372 1464 S 35.3 35.4 48:52.37 mem.bash 1096907 root 20 0 1047516 75908 0 R 0.0 34.8 0:00.00 mem.bash
+Thu Dec 23 11:56:43 MSK 2021 Mib Mem: 213.3 total 6.6 free 162.0 used 44.7 buff/cache
+Thu Dec 23 11:56:43 MSK 2021 Mib Swap: 820.0 total 0.0 free 820.0 used 45.2 avail mem
+Thu Dec 23 11:56:43 MSK 2021 1339 10 1 2 3
+
+Thu Dec 23 11:57:43 MSK 2021 1339 root 20 0 1051740 81632 1444 S 33.3 37.4 49:21.40 mem.bash 1102409 root 20 0 1051740 80188 0 R 0.0 36.7 0:00.00 mem.bash
+Thu Dec 23 11:57:44 MSK 2021 Mib Mem: 213.3 total 7.7 free 164.6 used 41.0 buff/cache
+Thu Dec 23 11:57:45 MSK 2021 Mib Swap: 820.0 total 0.0 free 820.0 used 41.0 avail mem
+Thu Dec 23 11:57:45 MSK 2021 1339 48 1 2 3
+
+Thu Dec 23 11:58:45 MSK 2021 1339 root 20 0 1056096 85856 1384 R 17.5 39.3 49:50.80 mem.bash
+Thu Dec 23 11:58:46 MSK 2021 Mib Mem: 213.3 total 6.5 free 168.9 used 38.0 buff/cache
+Thu Dec 23 11:58:47 MSK 2021 Mib Swap: 820.0 total 0.0 free 820.0 used 28.4 avail mem
+Thu Dec 23 11:58:48 MSK 2021 1339 1 2 3 4
+
+Thu Dec 23 11:59:49 MSK 2021 1339 root 20 0 1060320 89504 756 S 17.1 41.0 50:20.51 mem.bash 1113407 root 20 0 1060320 88748 0 R 0.0 40.6 0:00.00 mem.bash
+Thu Dec 23 11:59:50 MSK 2021 Mib Mem: 213.3 total 8.8 free 173.1 used 31.4 buff/cache
+Thu Dec 23 11:59:51 MSK 2021 Mib Swap: 820.0 total 0.0 free 820.0 used 32.6 avail mem
+Thu Dec 23 11:59:52 MSK 2021 1339 48 1 2 3
+
+Thu Dec 23 12:00:53 MSK 2021 1339 root 20 0 1064280 93432 736 S 6.1 42.8 50:48.61 mem.bash
+Thu Dec 23 12:00:55 MSK 2021 Mib Mem: 213.3 total 7.3 free 176.9 used 29.1 buff/cache
+Thu Dec 23 12:00:56 MSK 2021 Mib Swap: 820.0 total 0.0 free 820.0 used 22.3 avail mem
+Thu Dec 23 12:00:57 MSK 2021 1339 48 10 1118536 1
+
+Thu Dec 23 12:01:59 MSK 2021
+Thu Dec 23 12:02:00 MSK 2021 Mib Mem: 213.3 total 72.7 free 84.6 used 55.9 buff/cache
+Thu Dec 23 12:02:00 MSK 2021 Mib Swap: 820.0 total 732.2 free 87.7 used 116.9 avail mem
+Thu Dec 23 12:02:01 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:03:01 MSK 2021
+Thu Dec 23 12:03:01 MSK 2021 Mib Mem: 213.3 total 67.9 free 84.6 used 60.8 buff/cache
+Thu Dec 23 12:03:01 MSK 2021 Mib Swap: 820.0 total 732.2 free 87.7 used 117.0 avail mem
+Thu Dec 23 12:03:01 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:04:01 MSK 2021
+Thu Dec 23 12:04:02 MSK 2021 Mib Mem: 213.3 total 66.3 free 84.6 used 62.4 buff/cache
+Thu Dec 23 12:04:02 MSK 2021 Mib Swap: 820.0 total 732.2 free 87.7 used 116.9 avail mem
+Thu Dec 23 12:04:02 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:05:02 MSK 2021
+Thu Dec 23 12:05:02 MSK 2021 Mib Mem: 213.3 total 38.0 free 87.4 used 87.9 buff/cache
+Thu Dec 23 12:05:02 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:05:03 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:06:03 MSK 2021
+Thu Dec 23 12:06:03 MSK 2021 Mib Mem: 213.3 total 38.0 free 87.4 used 87.9 buff/cache
+Thu Dec 23 12:06:03 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:06:03 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:07:03 MSK 2021
+Thu Dec 23 12:07:04 MSK 2021 Mib Mem: 213.3 total 37.4 free 87.4 used 88.5 buff/cache
+Thu Dec 23 12:07:04 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:07:04 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:08:04 MSK 2021
+Thu Dec 23 12:08:04 MSK 2021 Mib Mem: 213.3 total 37.4 free 87.4 used 88.5 buff/cache
+Thu Dec 23 12:08:04 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:08:05 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:09:05 MSK 2021
+Thu Dec 23 12:09:05 MSK 2021 Mib Mem: 213.3 total 37.4 free 87.4 used 88.5 buff/cache
+Thu Dec 23 12:09:05 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:09:05 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:10:06 MSK 2021
+Thu Dec 23 12:10:06 MSK 2021 Mib Mem: 213.3 total 37.4 free 87.4 used 88.5 buff/cache
+Thu Dec 23 12:10:06 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:10:06 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:11:06 MSK 2021
+Thu Dec 23 12:11:06 MSK 2021 Mib Mem: 213.3 total 37.4 free 87.4 used 88.5 buff/cache
+Thu Dec 23 12:11:07 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:11:07 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:12:07 MSK 2021
+Thu Dec 23 12:12:07 MSK 2021 Mib Mem: 213.3 total 37.3 free 87.4 used 88.6 buff/cache
+Thu Dec 23 12:12:07 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:12:07 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:13:08 MSK 2021
+Thu Dec 23 12:13:08 MSK 2021 Mib Mem: 213.3 total 37.3 free 87.4 used 88.6 buff/cache
+Thu Dec 23 12:13:08 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:13:08 MSK 2021 68141 1 2 3 4
+
+Thu Dec 23 12:14:08 MSK 2021
+Thu Dec 23 12:14:08 MSK 2021 Mib Mem: 213.3 total 37.2 free 87.4 used 88.7 buff/cache
+Thu Dec 23 12:14:09 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:14:09 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:15:09 MSK 2021
+Thu Dec 23 12:15:09 MSK 2021 Mib Mem: 213.3 total 37.2 free 87.4 used 88.7 buff/cache
+Thu Dec 23 12:15:09 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:15:09 MSK 2021 1121833 1 2 3 4
+
+Thu Dec 23 12:16:10 MSK 2021
+Thu Dec 23 12:16:10 MSK 2021 Mib Mem: 213.3 total 37.2 free 87.4 used 88.7 buff/cache
+Thu Dec 23 12:16:10 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:16:10 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:17:10 MSK 2021
+Thu Dec 23 12:17:10 MSK 2021 Mib Mem: 213.3 total 37.2 free 87.4 used 88.8 buff/cache
+Thu Dec 23 12:17:11 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:17:11 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:18:11 MSK 2021
+Thu Dec 23 12:18:11 MSK 2021 Mib Mem: 213.3 total 37.2 free 87.4 used 88.8 buff/cache
+Thu Dec 23 12:18:11 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:18:12 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:19:12 MSK 2021
+Thu Dec 23 12:19:12 MSK 2021 Mib Mem: 213.3 total 37.2 free 87.4 used 88.8 buff/cache
+Thu Dec 23 12:19:12 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:19:12 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:20:12 MSK 2021
+Thu Dec 23 12:20:13 MSK 2021 Mib Mem: 213.3 total 37.1 free 87.5 used 88.8 buff/cache
+Thu Dec 23 12:20:13 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:20:13 MSK 2021 855 1 2 3 4
+
+Thu Dec 23 12:21:13 MSK 2021
+Thu Dec 23 12:21:13 MSK 2021 Mib Mem: 213.3 total 37.1 free 87.4 used 88.8 buff/cache
+Thu Dec 23 12:21:13 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:21:14 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:22:14 MSK 2021
+Thu Dec 23 12:22:14 MSK 2021 Mib Mem: 213.3 total 37.0 free 87.4 used 88.8 buff/cache
+Thu Dec 23 12:22:14 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:22:14 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:23:14 MSK 2021
+Thu Dec 23 12:23:15 MSK 2021 Mib Mem: 213.3 total 37.0 free 87.4 used 88.8 buff/cache
+Thu Dec 23 12:23:15 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 114.1 avail mem
+Thu Dec 23 12:23:15 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:24:15 MSK 2021
+Thu Dec 23 12:24:15 MSK 2021 Mib Mem: 213.3 total 18.7 free 88.0 used 106.5 buff/cache
+Thu Dec 23 12:24:15 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:24:16 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:25:16 MSK 2021
+Thu Dec 23 12:25:16 MSK 2021 Mib Mem: 213.3 total 18.7 free 88.0 used 106.6 buff/cache
+Thu Dec 23 12:25:16 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:25:16 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:26:16 MSK 2021
+Thu Dec 23 12:26:17 MSK 2021 Mib Mem: 213.3 total 18.7 free 88.0 used 106.6 buff/cache
+Thu Dec 23 12:26:17 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:26:17 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:27:17 MSK 2021
+Thu Dec 23 12:27:17 MSK 2021 Mib Mem: 213.3 total 18.7 free 88.0 used 106.6 buff/cache
+Thu Dec 23 12:27:17 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:27:18 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:28:18 MSK 2021
+Thu Dec 23 12:28:18 MSK 2021 Mib Mem: 213.3 total 18.7 free 88.0 used 106.6 buff/cache
+Thu Dec 23 12:28:18 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:28:18 MSK 2021 783 1 2 3 4
+
+Thu Dec 23 12:29:19 MSK 2021
+Thu Dec 23 12:29:19 MSK 2021 Mib Mem: 213.3 total 18.7 free 88.0 used 106.6 buff/cache
+Thu Dec 23 12:29:19 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:29:19 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:30:19 MSK 2021
+Thu Dec 23 12:30:19 MSK 2021 Mib Mem: 213.3 total 18.7 free 88.0 used 106.6 buff/cache
+Thu Dec 23 12:30:20 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:30:20 MSK 2021 1122168 1 2 3 4
+
+Thu Dec 23 12:31:20 MSK 2021
+Thu Dec 23 12:31:20 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.0 used 107.0 buff/cache
+Thu Dec 23 12:31:20 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 12:31:20 MSK 2021 1122191 1 2 3 4
+
+Thu Dec 23 12:32:21 MSK 2021
+Thu Dec 23 12:32:21 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.1 used 107.1 buff/cache
+Thu Dec 23 12:32:21 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 12:32:21 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:33:21 MSK 2021
+Thu Dec 23 12:33:21 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.0 used 107.1 buff/cache
+Thu Dec 23 12:33:22 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:33:22 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:34:22 MSK 2021
+Thu Dec 23 12:34:22 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.1 used 107.1 buff/cache
+Thu Dec 23 12:34:22 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 12:34:22 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:35:23 MSK 2021
+Thu Dec 23 12:35:23 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.1 used 107.1 buff/cache
+Thu Dec 23 12:35:23 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 12:35:23 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:36:23 MSK 2021
+Thu Dec 23 12:36:23 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.1 used 107.1 buff/cache
+Thu Dec 23 12:36:24 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:36:24 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:37:24 MSK 2021
+Thu Dec 23 12:37:24 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.1 used 107.1 buff/cache
+Thu Dec 23 12:37:24 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 12:37:24 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:38:25 MSK 2021
+Thu Dec 23 12:38:25 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.1 used 107.1 buff/cache
+Thu Dec 23 12:38:25 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 12:38:25 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:39:25 MSK 2021
+Thu Dec 23 12:39:26 MSK 2021 Mib Mem: 213.3 total 18.1 free 88.1 used 107.1 buff/cache
+Thu Dec 23 12:39:26 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 12:39:26 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:40:26 MSK 2021
+Thu Dec 23 12:40:26 MSK 2021 Mib Mem: 213.3 total 18.1 free 88.1 used 107.1 buff/cache
+Thu Dec 23 12:40:26 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:40:27 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:41:27 MSK 2021
+Thu Dec 23 12:41:27 MSK 2021 Mib Mem: 213.3 total 18.1 free 88.1 used 107.1 buff/cache
+Thu Dec 23 12:41:27 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 12:41:27 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:42:27 MSK 2021
+Thu Dec 23 12:42:28 MSK 2021 Mib Mem: 213.3 total 18.1 free 88.1 used 107.1 buff/cache
+Thu Dec 23 12:42:28 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 12:42:28 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:43:28 MSK 2021
+Thu Dec 23 12:43:28 MSK 2021 Mib Mem: 213.3 total 18.1 free 88.1 used 107.1 buff/cache
+Thu Dec 23 12:43:28 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:43:29 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:44:29 MSK 2021
+Thu Dec 23 12:44:29 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.0 used 107.1 buff/cache
+Thu Dec 23 12:44:29 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:44:29 MSK 2021 68141 1 2 3 4
+
+Thu Dec 23 12:45:29 MSK 2021
+Thu Dec 23 12:45:30 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.0 used 107.1 buff/cache
+Thu Dec 23 12:45:30 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:45:30 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:46:30 MSK 2021
+Thu Dec 23 12:46:30 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.0 used 107.1 buff/cache
+Thu Dec 23 12:46:30 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:46:31 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:47:31 MSK 2021
+Thu Dec 23 12:47:31 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.0 used 107.1 buff/cache
+Thu Dec 23 12:47:31 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:47:31 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:48:31 MSK 2021
+Thu Dec 23 12:48:32 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.0 used 107.1 buff/cache
+Thu Dec 23 12:48:32 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:48:32 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:49:32 MSK 2021
+Thu Dec 23 12:49:32 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.0 used 107.1 buff/cache
+Thu Dec 23 12:49:32 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:49:33 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:50:33 MSK 2021
+Thu Dec 23 12:50:33 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.0 used 107.2 buff/cache
+Thu Dec 23 12:50:33 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:50:33 MSK 2021 68141 1 2 3 4
+
+Thu Dec 23 12:51:33 MSK 2021
+Thu Dec 23 12:51:34 MSK 2021 Mib Mem: 213.3 total 18.1 free 88.0 used 107.2 buff/cache
+Thu Dec 23 12:51:34 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:51:34 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:52:34 MSK 2021
+Thu Dec 23 12:52:34 MSK 2021 Mib Mem: 213.3 total 18.1 free 88.0 used 107.2 buff/cache
+Thu Dec 23 12:52:35 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:52:35 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:53:35 MSK 2021
+Thu Dec 23 12:53:35 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.0 used 107.2 buff/cache
+Thu Dec 23 12:53:35 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:53:35 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:54:36 MSK 2021
+Thu Dec 23 12:54:36 MSK 2021 Mib Mem: 213.3 total 18.1 free 88.0 used 107.2 buff/cache
+Thu Dec 23 12:54:36 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:54:36 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:55:36 MSK 2021
+Thu Dec 23 12:55:36 MSK 2021 Mib Mem: 213.3 total 18.2 free 88.0 used 107.2 buff/cache
+Thu Dec 23 12:55:37 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:55:37 MSK 2021 1122723 1 2 3 4
+
+Thu Dec 23 12:56:37 MSK 2021
+Thu Dec 23 12:56:37 MSK 2021 Mib Mem: 213.3 total 18.1 free 88.0 used 107.2 buff/cache
+Thu Dec 23 12:56:37 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:56:37 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:57:38 MSK 2021
+Thu Dec 23 12:57:38 MSK 2021 Mib Mem: 213.3 total 18.1 free 88.0 used 107.2 buff/cache
+Thu Dec 23 12:57:38 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:57:38 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:58:38 MSK 2021
+Thu Dec 23 12:58:38 MSK 2021 Mib Mem: 213.3 total 18.1 free 88.0 used 107.2 buff/cache
+Thu Dec 23 12:58:39 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:58:39 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 12:59:39 MSK 2021
+Thu Dec 23 12:59:39 MSK 2021 Mib Mem: 213.3 total 18.1 free 88.0 used 107.2 buff/cache
+Thu Dec 23 12:59:39 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 12:59:39 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:00:40 MSK 2021
+Thu Dec 23 13:00:40 MSK 2021 Mib Mem: 213.3 total 18.1 free 88.0 used 107.2 buff/cache
+Thu Dec 23 13:00:40 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:00:40 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:01:40 MSK 2021
+Thu Dec 23 13:01:41 MSK 2021 Mib Mem: 213.3 total 9.7 free 88.0 used 115.6 buff/cache
+Thu Dec 23 13:01:41 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:01:41 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:02:41 MSK 2021
+Thu Dec 23 13:02:41 MSK 2021 Mib Mem: 213.3 total 9.7 free 88.0 used 115.6 buff/cache
+Thu Dec 23 13:02:41 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:02:42 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:03:42 MSK 2021
+Thu Dec 23 13:03:42 MSK 2021 Mib Mem: 213.3 total 9.7 free 88.0 used 115.6 buff/cache
+Thu Dec 23 13:03:42 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:03:42 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:04:42 MSK 2021
+Thu Dec 23 13:04:43 MSK 2021 Mib Mem: 213.3 total 9.7 free 88.0 used 115.6 buff/cache
+Thu Dec 23 13:04:43 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:04:43 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:05:43 MSK 2021
+Thu Dec 23 13:05:43 MSK 2021 Mib Mem: 213.3 total 9.1 free 88.1 used 116.2 buff/cache
+Thu Dec 23 13:05:43 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 13:05:44 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:06:44 MSK 2021
+Thu Dec 23 13:06:44 MSK 2021 Mib Mem: 213.3 total 9.1 free 88.0 used 116.2 buff/cache
+Thu Dec 23 13:06:44 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:06:44 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:07:44 MSK 2021
+Thu Dec 23 13:07:45 MSK 2021 Mib Mem: 213.3 total 9.1 free 88.0 used 116.2 buff/cache
+Thu Dec 23 13:07:45 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:07:45 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:08:45 MSK 2021
+Thu Dec 23 13:08:45 MSK 2021 Mib Mem: 213.3 total 9.1 free 88.1 used 116.2 buff/cache
+Thu Dec 23 13:08:45 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 13:08:46 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:09:46 MSK 2021
+Thu Dec 23 13:09:46 MSK 2021 Mib Mem: 213.3 total 9.1 free 88.1 used 116.2 buff/cache
+Thu Dec 23 13:09:46 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 13:09:46 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:10:46 MSK 2021
+Thu Dec 23 13:10:47 MSK 2021 Mib Mem: 213.3 total 9.1 free 88.0 used 116.2 buff/cache
+Thu Dec 23 13:10:47 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 13:10:47 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:11:47 MSK 2021
+Thu Dec 23 13:11:47 MSK 2021 Mib Mem: 213.3 total 9.1 free 88.0 used 116.2 buff/cache
+Thu Dec 23 13:11:48 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 13:11:48 MSK 2021 1123095 1 2 3 4
+
+Thu Dec 23 13:12:48 MSK 2021
+Thu Dec 23 13:12:48 MSK 2021 Mib Mem: 213.3 total 9.0 free 88.1 used 116.2 buff/cache
+Thu Dec 23 13:12:48 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:12:48 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:13:49 MSK 2021
+Thu Dec 23 13:13:49 MSK 2021 Mib Mem: 213.3 total 9.1 free 88.0 used 116.2 buff/cache
+Thu Dec 23 13:13:49 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:13:49 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:14:49 MSK 2021
+Thu Dec 23 13:14:49 MSK 2021 Mib Mem: 213.3 total 9.1 free 88.0 used 116.2 buff/cache
+Thu Dec 23 13:14:50 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:14:50 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:15:50 MSK 2021
+Thu Dec 23 13:15:50 MSK 2021 Mib Mem: 213.3 total 9.1 free 88.0 used 116.2 buff/cache
+Thu Dec 23 13:15:50 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:15:50 MSK 2021 68141 1 2 3 4
+
+Thu Dec 23 13:16:51 MSK 2021
+Thu Dec 23 13:16:51 MSK 2021 Mib Mem: 213.3 total 9.1 free 88.0 used 116.2 buff/cache
+Thu Dec 23 13:16:51 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:16:51 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:17:51 MSK 2021
+Thu Dec 23 13:17:51 MSK 2021 Mib Mem: 213.3 total 9.1 free 88.0 used 116.2 buff/cache
+Thu Dec 23 13:17:52 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:17:52 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:18:52 MSK 2021
+Thu Dec 23 13:18:52 MSK 2021 Mib Mem: 213.3 total 9.0 free 88.0 used 116.2 buff/cache
+Thu Dec 23 13:18:52 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:18:52 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:19:53 MSK 2021
+Thu Dec 23 13:19:53 MSK 2021 Mib Mem: 213.3 total 9.1 free 88.0 used 116.2 buff/cache
+Thu Dec 23 13:19:53 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:19:53 MSK 2021 1123272 1 2 3 4
+
+Thu Dec 23 13:20:53 MSK 2021
+Thu Dec 23 13:20:54 MSK 2021 Mib Mem: 213.3 total 9.0 free 88.0 used 116.3 buff/cache
+Thu Dec 23 13:20:54 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:20:54 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:21:54 MSK 2021
+Thu Dec 23 13:21:54 MSK 2021 Mib Mem: 213.3 total 9.0 free 88.0 used 116.3 buff/cache
+Thu Dec 23 13:21:54 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:21:55 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:22:55 MSK 2021
+Thu Dec 23 13:22:55 MSK 2021 Mib Mem: 213.3 total 9.0 free 88.0 used 116.3 buff/cache
+Thu Dec 23 13:22:55 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:22:55 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:23:55 MSK 2021
+Thu Dec 23 13:23:56 MSK 2021 Mib Mem: 213.3 total 9.0 free 88.0 used 116.3 buff/cache
+Thu Dec 23 13:23:56 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:23:56 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:24:56 MSK 2021
+Thu Dec 23 13:24:56 MSK 2021 Mib Mem: 213.3 total 9.0 free 88.0 used 116.3 buff/cache
+Thu Dec 23 13:24:56 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 13:24:57 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:25:57 MSK 2021
+Thu Dec 23 13:25:57 MSK 2021 Mib Mem: 213.3 total 9.0 free 88.0 used 116.3 buff/cache
+Thu Dec 23 13:25:57 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:25:57 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:26:57 MSK 2021
+Thu Dec 23 13:26:58 MSK 2021 Mib Mem: 213.3 total 9.0 free 88.0 used 116.3 buff/cache
+Thu Dec 23 13:26:58 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:26:58 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:27:58 MSK 2021
+Thu Dec 23 13:27:58 MSK 2021 Mib Mem: 213.3 total 9.0 free 88.0 used 116.3 buff/cache
+Thu Dec 23 13:27:58 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:27:59 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:28:59 MSK 2021
+Thu Dec 23 13:28:59 MSK 2021 Mib Mem: 213.3 total 9.0 free 88.0 used 116.3 buff/cache
+Thu Dec 23 13:28:59 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:28:59 MSK 2021 1123472 1 2 3 4
+
+Thu Dec 23 13:29:59 MSK 2021
+Thu Dec 23 13:30:00 MSK 2021 Mib Mem: 213.3 total 9.0 free 88.0 used 116.3 buff/cache
+Thu Dec 23 13:30:00 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:30:00 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:31:00 MSK 2021
+Thu Dec 23 13:31:00 MSK 2021 Mib Mem: 213.3 total 9.0 free 88.0 used 116.3 buff/cache
+Thu Dec 23 13:31:01 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:31:01 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:32:01 MSK 2021
+Thu Dec 23 13:32:01 MSK 2021 Mib Mem: 213.3 total 8.9 free 88.0 used 116.3 buff/cache
+Thu Dec 23 13:32:01 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.4 avail mem
+Thu Dec 23 13:32:01 MSK 2021 1 2 3 4 6
+
+Thu Dec 23 13:33:02 MSK 2021
+Thu Dec 23 13:33:02 MSK 2021 Mib Mem: 213.3 total 8.9 free 88.1 used 116.3 buff/cache
+Thu Dec 23 13:33:02 MSK 2021 Mib Swap: 820.0 total 733.2 free 86.7 used 113.5 avail mem
+Thu Dec 23 13:33:02 MSK 2021 1 2 3 4 6
+

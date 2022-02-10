@@ -1,2 +1,3 @@
 #!/bin/bash
-grep -E -r -oh -a '[[:alnum:]]+@[[:alnum:]]+[.][[:alnum:]]+' /etc | sort | uniq \ awk '{ ORS=", " } ; { print $0 }' > emails.lst
+STR=$(grep -E -r -oh -a '[[:alnum:]]+@[[:alnum:]]+[.][[:alnum:]]+' /etc | sort | uniq | tr '\n' ',') > emails.lst
+echo ${STR: : -2} > emails.lst

@@ -1,0 +1,19 @@
+[ 7021.158398] [  48556]     0 48556   266433    21481  1753088   189401             0 mem.bash
+[ 7021.160792] [1130807]     0 1130807   266433    21495  1748992   189400             0 mem.bash
+[ 7021.161172] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-0.slice/session-1.scope,task=mem.bash,pid=1130807,uid=0
+[ 7021.161905] Out of memory: Killed process 1130807 (mem.bash) total-vm:1065732kB, anon-rss:85932kB, file-rss:48kB, shmem-rss:0kB, UID:0 pgtables:1708kB oom_score_adj:0
+[ 7021.169146] oom_reaper: reaped process 1130807 (mem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[ 7022.756440] [  48556]     0 48556   266466    21481  1753088   189405             0 mem.bash
+[ 7022.758828] [1130809]     0 1130809   266466    21508  1748992   189404             0 mem.bash
+[ 7022.759178] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-0.slice/session-1.scope,task=mem.bash,pid=1130809,uid=0
+[ 7022.759895] Out of memory: Killed process 1130809 (mem.bash) total-vm:1065864kB, anon-rss:85928kB, file-rss:104kB, shmem-rss:0kB, UID:0 pgtables:1708kB oom_score_adj:0
+[ 7022.766762] oom_reaper: reaped process 1130809 (mem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[ 7024.640548] [  48556]     0 48556   266466    21481  1753088   189405             0 mem.bash
+[ 7024.642878] [1130813]     0 1130813   266466    21529  1748992   189403             0 mem.bash
+[ 7024.643229] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-0.slice/session-1.scope,task=mem.bash,pid=1130813,uid=0
+[ 7024.643948] Out of memory: Killed process 1130813 (mem.bash) total-vm:1065864kB, anon-rss:85932kB, file-rss:184kB, shmem-rss:0kB, UID:0 pgtables:1708kB oom_score_adj:0
+[ 7024.651139] oom_reaper: reaped process 1130813 (mem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[ 7024.931404] [  48556]     0 48556   266466    21481  1753088   189405             0 mem.bash
+[ 7024.933765] [1130814]     0 1130814   266466    21481  1744896   189405             0 mem.bash
+[ 7024.934090] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-0.slice/session-1.scope,task=mem.bash,pid=48556,uid=0
+[ 7024.934806] Out of memory: Killed process 48556 (mem.bash) total-vm:1065864kB, anon-rss:85924kB, file-rss:0kB, shmem-rss:0kB, UID:0 pgtables:1712kB oom_score_adj:0
