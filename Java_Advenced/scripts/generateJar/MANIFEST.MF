@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Beliaev Nikita
+Main-Class: info.kgeorgiy.ja.Beliaev.implementor.Implementor
+Class-Path: ..\..\..\java-advanced-2022\artifacts\info.kgeorgiy.java.advanced.implementor.jar
