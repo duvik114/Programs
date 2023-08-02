@@ -29,9 +29,10 @@ import java.util.zip.ZipEntry;
  *
  * @author Beliaev Nikita
  */
+
 public class Implementor implements JarImpler {
 
-    /**
+/**
      * Creates a {@code .java} file with source code of a class implementing
      * interface {@code token} in location {@code root}.
      *
@@ -39,6 +40,7 @@ public class Implementor implements JarImpler {
      * @param root root directory.
      * @throws ImplerException error during creating {@code .java} file
      */
+
     @Override
     public void implement(Class<?> token, Path root) throws ImplerException {
         if (!token.isInterface()) {
@@ -117,7 +119,7 @@ public class Implementor implements JarImpler {
         }
     }
 
-    /**
+/**
      * Creates a {@code .jar} file for created {@code .java} file which contains
      * source code of a class implementing interface {@code token} in location {@code root}
      *
@@ -125,6 +127,7 @@ public class Implementor implements JarImpler {
      * @param jarFile target <var>.jar</var> file.
      * @throws ImplerException error during creating {@code .jar} file
      */
+
     @Override
     public void implementJar(Class<?> token, Path jarFile) throws ImplerException {
         try {
@@ -145,13 +148,14 @@ public class Implementor implements JarImpler {
         }
     }
 
-    /**
+/**
      * Compile generated {@code .java} file and creates {@code .jar}
      *
      * @param token class for compilation
      * @param className class name for compilation
      * @throws ImplerException error during compilation
      */
+
     public void compileFiles(Class<?> token, String className) throws ImplerException {
         try {
             final JavaCompiler compiler = ToolProvider.getSystemJavaCompiler();
@@ -164,18 +168,19 @@ public class Implementor implements JarImpler {
         }
     }
 
-    /**
+/**
      * Returns full path of given file
      *
      * @param token class which path is needed to be returned
      * @return full path in {@link String}
      * @throws URISyntaxException error during getting full path
      */
+
     private static String getClassPath(Class<?> token) throws URISyntaxException {
         return Path.of(token.getProtectionDomain().getCodeSource().getLocation().toURI()).toString();
     }
 
-    /**
+/**
      * Main function. Provides console interface for {@link Implementor} class.
      * Runs in two modes depending on count of arguments {@code args}:
      * <ol>
@@ -189,6 +194,7 @@ public class Implementor implements JarImpler {
      *
      * @param args command line arguments.
      */
+
     public static void main(final String[] args) {
         if (args.length < 3 || args.length > 4) {
             System.err.println("Incorrect number of args");

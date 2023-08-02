@@ -1,3 +1,4 @@
+/*
 package info.kgeorgiy.ja.Beliaev.student;
 
 import info.kgeorgiy.java.advanced.student.GroupName;
@@ -112,3 +113,4 @@ public class StudentDB implements StudentQuery {
                         (existing, replacement) -> existing.compareTo(replacement) < 0 ? existing : replacement));
     }
 }
+*/

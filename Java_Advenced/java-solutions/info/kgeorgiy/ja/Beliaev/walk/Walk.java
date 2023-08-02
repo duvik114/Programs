@@ -36,7 +36,7 @@ public class Walk {
             System.err.println("Error while initializing hash algorithm: " + e.getMessage());
             return null;
         }
-        try(InputStream fis = Files.newInputStream(filePath)) {
+        try (InputStream fis = Files.newInputStream(filePath)) {
             int readSize;
             // :NOTE: move to a const // fixed
             byte[] buffer = new byte[BUFFER_SIZE];
@@ -82,6 +82,12 @@ public class Walk {
         String inputFileNamesFile = args[0];
         String outputFileNamesFile = args[1];
         List<String> files;
+
+        if (!Files.isRegularFile(Paths.get(inputFileNamesFile))) {
+            System.err.println("InputFieNamesFile with name : " + inputFileNamesFile + " does not exist");
+            return;
+        }
+
         try {
             files = walk.getFileNames(inputFileNamesFile);
         } catch (InvalidPathException e) {
